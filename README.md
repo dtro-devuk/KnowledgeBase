@@ -72,18 +72,18 @@ ___
 
 ### HTML 5
 
-*[HTML5 and CSS Course - Learn](https://academy.zenva.com/product/programming-for-entrepreneurs-html-css/?zva_src=html5hive)
+* [HTML5 and CSS Course - Learn](https://academy.zenva.com/product/programming-for-entrepreneurs-html-css/?zva_src=html5hive)
 
 #### Canvas
 
 ##### General
-*[Mozilla Canavas Tutorials](https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API/Tutorial)
+* [Mozilla Canavas Tutorials](https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API/Tutorial)
 
 ##### Angular 2
-*[Angular 2 Canvas Examples](https://github.com/sflahave/angular2-canvas-examples)
-*[HTML5 Canavas Tutorials.com](http://www.html5canvastutorials.com/)
-*[Meta Bubbles - Angular 2](https://teropa.info/blog/2016/02/28/metabubbles-generative-art-with-angular-2.html)
-
+* [Angular 2 Canvas Examples](https://github.com/sflahave/angular2-canvas-examples)
+* [HTML5 Canavas Tutorials.com](http://www.html5canvastutorials.com/)
+* [Meta Bubbles - Angular 2](https://teropa.info/blog/2016/02/28/metabubbles-generative-art-with-angular-2.html)
+* [Drawing Inside Canvas](http://stackoverflow.com/questions/36163905/angular2-component-based-on-canvas-how-to-draw-inside)
 ### JavaScript
 
 #### Introduction
