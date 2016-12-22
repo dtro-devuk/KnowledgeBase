@@ -36,6 +36,7 @@ ___
 
 #### Key Concepts
 * [Thinking in Angular 2 -  an overview of concepts for JavaScript developers on youtube](https://youtu.be/XlqoPpLMdwY)
+* [Getting Started in Angular 2](https://html5hive.org/getting-started-with-angular-2/)
 
 
 #### Angular 2 Modules
@@ -50,11 +51,12 @@ ___
 * [Using Ng-Content (Scotch.io) ](https://scotch.io/tutorials/angular-2-transclusion-using-ng-content)
 
 
-
-####RxJS
+#### RxJS
 * [RxJS Crash Course on youtube](https://youtu.be/ei7FsoXKPl0)
 * [Angular Introduction to Reactive Extensions (RxJS)](https://medium.com/google-developer-experts/angular-introduction-to-reactive-extensions-rxjs-a86a7430a61f#.1o4tur21g)
 
+#### Custom Video HTML 5
+* [Building Custom HTML5 Video Playback with Angular 2 (Lynda.com)](https://www.lynda.com/AngularJS-tutorials/Building-Custom-HTML5-Video-Playback-AngularJS-2/488838-2.html)
 
 #### Apps and Tutorials
 * [Angular JS Chat with Loopback](https://www.codetutorial.io/angularjs-chat-whit-socket-io-and-loopback/)
@@ -70,9 +72,15 @@ ___
 
 ### HTML 5
 
+*[HTML5 and CSS Course - Learn](https://academy.zenva.com/product/programming-for-entrepreneurs-html-css/?zva_src=html5hive)
+
 #### Canvas
 
+##### General
 *[Mozilla Canavas Tutorials](https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API/Tutorial)
+
+##### Angular 2
+*[Angular 2 Canvas Examples](https://github.com/sflahave/angular2-canvas-examples)
 *[HTML5 Canavas Tutorials.com](http://www.html5canvastutorials.com/)
 *[Meta Bubbles - Angular 2](https://teropa.info/blog/2016/02/28/metabubbles-generative-art-with-angular-2.html)
 
