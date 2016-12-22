@@ -1,26 +1,25 @@
 # Knowledge Base
 
-* A curated list of helpful material to start learning Modern Development Things :smile:
+A curated list of helpful material to start learning Modern Development Things :smile:
 
 ## GitHub Markdown
 * [markdown-it demo](https://markdown-it.github.io/)
 * [Markdown Cheat Sheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 * [Emoji Cheat Sheet](http://www.webpagefx.com/tools/emoji-cheat-sheet/)
 
----
+___
 
-### IoT
+## IoT
 
 * [Cool Things to buy on Amazon](https://www.youtube.com/watch?v=PdLBRPkZObA&sns=em)
 
-##Artificial Inteligence
-
-##Augmented Reality
-
-##Proximity Marketing
-
+### Artificial Inteligence
 ---
+### Augmented Reality
+---
+### Proximity Marketing
 
+___
 ##Modern Web Development
 
 
@@ -30,7 +29,7 @@
 * [Angular 2 Education Rsources](https://github.com/timjacobi/angular2-education)
 * [Awesome Angular 2](https://github.com/AngularClass/awesome-angular2)
 
-___
+
 
 #### Key Concepts
 * [Thinking in Angular 2 -  an overview of concepts for JavaScript developers on youtube](https://youtu.be/XlqoPpLMdwY)
