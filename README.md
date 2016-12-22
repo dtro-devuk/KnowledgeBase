@@ -1,6 +1,6 @@
 # Knowledge Base
 
-## A curated list of helpful material to start learning Modern Development Things :smile:
+* A curated list of helpful material to start learning Modern Development Things :smile:
 
 ## GitHub Markdown
 * [markdown-it demo](https://markdown-it.github.io/)
@@ -9,7 +9,7 @@
 
 ---
 
-#### IoT
+### IoT
 
 * [Cool Things to buy on Amazon](https://www.youtube.com/watch?v=PdLBRPkZObA&sns=em)
 
@@ -22,7 +22,7 @@
 ---
 
 ##Modern Web Development
-***
+
 
 ### Angular 2 
 * [Official Angular 2 Design Docs (Google)](https://drive.google.com/drive/folders/0B7Ovm8bUYiUDR29iSkEyMk5pVUk)
