@@ -26,7 +26,7 @@
 * [Quick Start Tutorial on youtube](https://youtu.be/L0XXoPqSphs)
 
 ## Components
-* [Responding to component events, on youtube (Rangle.io)](https://angular-2-training-book.rangle.io/handout/components/app_structure/responding_to_component_events.html)
+* [Responding to component events(Rangle.io)](https://angular-2-training-book.rangle.io/handout/components/app_structure/responding_to_component_events.html)
 
 ## Projection/ Transclusion
 *[Using Ng-Content on youtube (Scotch.io) ](https://scotch.io/tutorials/angular-2-transclusion-using-ng-content)
