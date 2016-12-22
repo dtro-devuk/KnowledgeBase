@@ -111,7 +111,7 @@ ___
 * [The Ultimate Guide For Building RTA (Mean Expert)](http://mean.expert/2016/06/09/angular-2-ultimate-real-time/)
 
 #### Samples
-*[NativeScript Code Samples](https://github.com/NativeScript/nativescript-sdk-examples-ng)
+* [NativeScript Code Samples](https://github.com/NativeScript/nativescript-sdk-examples-ng)
 
 ---
 
