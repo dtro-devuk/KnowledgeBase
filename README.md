@@ -16,10 +16,10 @@ ___
 * [Cool Things to buy on Amazon](https://www.youtube.com/watch?v=PdLBRPkZObA&sns=em)
 
 ### Artificial Inteligence
----
+***
 *
 ### Augmented Reality
----
+***
 *
 ### Proximity Marketing
 ---
