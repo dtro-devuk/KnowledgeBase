@@ -91,7 +91,7 @@ ___
 
 #### Introduction
 
-*[Mozilla Reintroducing JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript/A_re-introduction_to_JavaScript)
+* [Mozilla Reintroducing JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript/A_re-introduction_to_JavaScript)
 
 #### Visualisation Frameworks
 * [Visualisation](https://gist.github.com/jexchan/1519274)
