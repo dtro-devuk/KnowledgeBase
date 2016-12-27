@@ -44,6 +44,7 @@ ___
 
 
 #### Components
+* [Flattening Deep Heirarchies of Components](http://blog.rangle.io/flattening-deep-hierarchies-of-components/)
 * [Responding to component events(Rangle.io)](https://angular-2-training-book.rangle.io/handout/components/app_structure/responding_to_component_events.html)
 
 
@@ -57,6 +58,9 @@ ___
 
 #### Custom Video HTML 5
 * [Building Custom HTML5 Video Playback with Angular 2 (Lynda.com)](https://www.lynda.com/AngularJS-tutorials/Building-Custom-HTML5-Video-Playback-AngularJS-2/488838-2.html)
+
+#### Optimisation
+* [Tree Shaking](http://blog.rangle.io/optimize-your-angular2-application-with-tree-shaking/)
 
 #### Apps and Tutorials
 * [Angular JS Chat with Loopback](https://www.codetutorial.io/angularjs-chat-whit-socket-io-and-loopback/)
@@ -116,6 +120,9 @@ ___
 ### NativeScript
 
 * [The Ultimate Guide For Building RTA (Mean Expert)](http://mean.expert/2016/06/09/angular-2-ultimate-real-time/)
+
+#### Architecture and Lifecycle
+* [Application architecture and lifeycle](http://docs.nativescript.org/angular/core-concepts/application-lifecycle.html#start-application)
 
 #### Samples
 * [NativeScript Code Samples](https://github.com/NativeScript/nativescript-sdk-examples-ng)
