@@ -53,8 +53,11 @@ ___
 * [Getting Started in Angular 2](https://html5hive.org/getting-started-with-angular-2/)
 
 #### Seeds
+* [Angular 2 Seed](https://github.com/angular/angular2-seed)
+* [Angular 2 Seed Advanced](https://github.com/NathanWalker/angular-seed-advanced)
+* [Angular 2 Seed With WebPack Starter](https://github.com/AngularClass/angular2-webpack-starter)
 * [Angular 2 Login Seed](https://github.com/domfarolino/angular2-login-seed)
-
+* [Angular2-dashboard-starter](https://www.npmjs.com/package/angular2-dashboard-starter)
 
 #### Angular 2 Modules
 * [Quick Start Tutorial on youtube](https://youtu.be/L0XXoPqSphs)
@@ -75,13 +78,13 @@ ___
 #### Services
 * [Creating and Injecting Services](blog.falafel.com/creating-injecting-angular-2-services/)
 
-
 #### RxJS
 * [RxJS Crash Course on youtube](https://youtu.be/ei7FsoXKPl0)
 * [Angular Introduction to Reactive Extensions (RxJS)](https://medium.com/google-developer-experts/angular-introduction-to-reactive-extensions-rxjs-a86a7430a61f#.1o4tur21g)
 
 #### Security
 * [The DomSanitizer Service](https://netbasal.com/angular-2-security-the-domsanitizer-service-2202c83bd90#.gcd3gbx9i)
+* [Auth0 - Authentication Sample](https://github.com/auth0-blog/angular2-authentication-sample)
 
 #### Custom Video HTML 5
 * [Building Custom HTML5 Video Playback with Angular 2 (Lynda.com)](https://www.lynda.com/AngularJS-tutorials/Building-Custom-HTML5-Video-Playback-AngularJS-2/488838-2.html)
