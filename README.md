@@ -93,6 +93,7 @@ ___
 * [Responding to component events(Rangle.io)](https://angular-2-training-book.rangle.io/handout/components/app_structure/responding_to_component_events.html)
 * [Building Wunderground.com: Component Reuse on a Page](http://www.mediacurrent.com/blog/building-wundergroundcom-drupal-angular-2-component-reuse-page-challenge-2)
 * [Writing your first component - an intro (Local Weather)](http://blog.falafel.com/writing-first-angular-2-component/)
+* [Angular Weather component](https://github.com/mschwarzmueller/angular2-weather-app-tut/tree/02-weather-item-list/dev)
 * [A2 Components (Parent and Child) Plunker](http://plnkr.co/edit/rH2vGgFluLXHCsgfkNjF?p=preview)
 * [Joes Dasgboard (Plubker)](https://plnkr.co/edit/ixhMY4bM0sXJa6ODKcpB?p=preview)
 
