@@ -20,6 +20,10 @@ ___
 ### Raspberry PI
 * [Gadgets 360](http://gadgets.ndtv.com/tags/raspberry-pi)
 
+### Smart Homes
+* [IoT Path-to-Product: How to Build the Smart Home Prototype](https://software.intel.com/en-us/articles/iot-path-to-product-how-to-build-the-smart-home-prototype)
+* [I0T Path-to-Product: Code (Github)](https://github.com/intel-iot-devkit/path-to-product/tree/master/smart-home)
+
 ### Sensors
 * [Estimote  Beacon Tech Overview](http://developer.estimote.com/?gclid=CNOMkdHE6dACFQ26Gwod9KcDkA)
 * [The IOT In retail market map](https://www.cbinsights.com/blog/internet-of-things-retail-market-map/)
