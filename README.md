@@ -222,33 +222,6 @@ ___
 ___
 ##Modern Web Development
 
-### Bootstrap
-
-####Bootstrap
-
-Bootstrap 4 to come out in 2017?
-
-* [Bootstrap 3 Tutorial For Beginners (youtube)](https://www.youtube.com/watch?v=0YnF7N_R0_4)
-* [Bootstrap Tutorial Derek Bananas (youtube)](https://www.youtube.com/watch?v=gqOEoUR5RHg)
-* [Elegant Bootstrap Forms](http://tutorialzine.com/2016/11/freebie-3-elegant-bootstrap-forms/)
-* [Bootstrap 4 Regular grid vs Flex Grid](http://tutorialzine.com/2016/11/boostrap-4-regular-vs-flex-grid/)
-
-#### Bootstrap Studio
-
-Bootstrap Studio is a powerful desktop app for designing and prototyping websites.
-It comes with a large number of built-in components, which you can drag and drop to assemble responsive web pages. 
-Its built on top of the hugely popular Bootstrap framework, and exports clean and semantic HTML. 
-
-* [Official Bootstrap Studio](https://bootstrapstudio.io/)
-* [How to make a web site in Bootstrap Studio (youtube)](https://www.youtube.com/watch?v=YAEALKYT3bM)
-* [12 Videos by NightShooter (youtube)](https://www.youtube.com/watch?v=bhqQQXgPMiw&list=PLV0iSHLFgTw5_ou76sDkQ3gJUTaKx8ufz)
-* [Creating a Website with Bootstrap Studio (youtube)](https://www.youtube.com/watch?v=10SwsoYNkVc)
-
-#### Templates, Freebies etc
-
-* [5 Fantastic Bootstrap Footers](http://tutorialzine.com/2016/10/freebie-5-fantastic-bootstrap-footers/)
-
-
 ### Angular 2 
 
 Free E-books
@@ -333,13 +306,41 @@ Free E-books
 
 * [Material Design Franeworks](http://tutorialzine.com/2016/03/the-15-best-material-design-frameworks-and-libraries/)
 
-
 #### SAAS and Compass
 * [SASS Derek Bananas (youtube)](https://www.youtube.com/watch?v=wz3kElLbEHE&feature=iv&src_vid=gqOEoUR5RHg&annotation_id=video%3Aced7ab79-d3eb-4172-b22c-42d82f1eea3e)
 * [SASS Video and Code, Derek Bananas](http://www.newthinktank.com/2015/04/sass-video-tutorial/)
 
 #### REM units
 * [Understanding REM units (Sitepoint)](https://www.sitepoint.com/understanding-and-using-rem-units-in-css/)
+
+### Bootstrap
+
+####Bootstrap
+
+Bootstrap 4 to come out in 2017?
+
+* [Bootstrap 3 Tutorial For Beginners (youtube)](https://www.youtube.com/watch?v=0YnF7N_R0_4)
+* [Bootstrap Tutorial Derek Bananas (youtube)](https://www.youtube.com/watch?v=gqOEoUR5RHg)
+* [Elegant Bootstrap Forms](http://tutorialzine.com/2016/11/freebie-3-elegant-bootstrap-forms/)
+* [Bootstrap 4 Regular grid vs Flex Grid](http://tutorialzine.com/2016/11/boostrap-4-regular-vs-flex-grid/)
+
+#### Bootstrap Studio
+
+Bootstrap Studio is a powerful desktop app for designing and prototyping websites.
+It comes with a large number of built-in components, which you can drag and drop to assemble responsive web pages. 
+Its built on top of the hugely popular Bootstrap framework, and exports clean and semantic HTML. 
+
+* [Official Bootstrap Studio](https://bootstrapstudio.io/)
+* [How to make a web site in Bootstrap Studio (youtube)](https://www.youtube.com/watch?v=YAEALKYT3bM)
+* [12 Videos by NightShooter (youtube)](https://www.youtube.com/watch?v=bhqQQXgPMiw&list=PLV0iSHLFgTw5_ou76sDkQ3gJUTaKx8ufz)
+* [Creating a Website with Bootstrap Studio (youtube)](https://www.youtube.com/watch?v=10SwsoYNkVc)
+* [Lear the Bootstrap Grid in 15 minutes](http://tutorialzine.com/2015/10/learn-the-bootstrap-grid-in-15-minutes/)
+
+#### Templates, Freebies etc
+
+* [5 Fantastic Bootstrap Footers](http://tutorialzine.com/2016/10/freebie-5-fantastic-bootstrap-footers/)
+
+
 
 
 ### HTML 5
