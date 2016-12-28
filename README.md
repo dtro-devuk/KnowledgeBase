@@ -2,13 +2,168 @@
 
 A curated list of helpful material to start learning Modern Development Things :smile:
 
+* [Also some useful posts from Tutorialzine](http://tutorialzine.com/posts/page/1/)
+
 ___
 
-## GitHub Markdown
+## Games to Watch out for
+
+* [Witcher 3 - Alternative Endings](https://www.vg247.com/2015/12/22/the-witcher-3-how-to-get-the-best-ending/)
+* [Cyberpunk 2077](https://www.youtube.com/watch?v=sPZxkhLoukI)
+
+___
+
+## Trends for 2017, Langauges and Frameworks you should learn!
+
+* [Language Frameworks and Tools for 2017](http://tutorialzine.com/2016/12/the-languages-frameworks-tools-you-should-learn-in-2017/)
+* [15 Interesting JavaScript and CSS Libraries for December 2016](http://tutorialzine.com/2016/12/15-interesting-javascript-and-css-libraries-for-december-2016/)
+* [15 Interesting JavaScript and CSS Libraries for November 2016](http://tutorialzine.com/2016/11/15-interesting-javascript-and-css-libraries-for-november-2016/)
+
+### Progressive Web Apps (PWA)
+
+2016 saw the rise of Progressive Web Apps, i.e. web apps that work offline and offer a native app-like experience. Add them to your smart devices homescreen, and send push notifications, 
+bridging the gap with native mobile apps.
+
+* [Everything you should know about progressive web apps](http://tutorialzine.com/2016/09/everything-you-should-know-about-progressive-web-apps/)
+
+### Languages
+
+Angular and TypeScript to grow in 2017. 
+Other emerging languages-frameworks-tools-you-should-learn-in-2017/
+
+#### View JS
+
+* [https://vuejs.org/](https://vuejs.org/)
+* [View Tutorialzine](http://tutorialzine.com/tag/vue-js/)
+* [Build your first app](http://tutorialzine.com/2016/08/building-your-first-app-with-vue-js/)
+
+### Backend
+
+NodeJS
+
+* [StrongLoop LoopBack](https://strongloop.com/node-js/loopback-framework/)
+* [NodalJS](http://www.nodaljs.com/)
+* []()
+* []()
+
+### Databases
+
+* [PostgreSQL](https://www.postgresql.org/about/news/1703/)
+* [MySQL 8.0 RDB](http://mysqlserverteam.com/the-mysql-8-0-0-milestone-release-is-available/)
+* [Redis KeyValue Store / Cache](https://redis.io/)
+* [CouchDB NoSQL](http://tutorialzine.com/2016/12/the-languages-frameworks-tools-you-should-learn-in-2017/)
+* [PouchDB](https://pouchdb.com/)
+
+### Tools
+
+#### Yarn (facebook)
+
+An alternative package manager for NodeJs to npm, developed ny Facebook.
+Upgrade over npm with faster installs, better security and deterministic builds.
+Still uses npm package registry as its backend. Compatible with <i>packages.json</i> and quick to install.
+
+* [Yarn](https://yarnpkg.com/)
+
+#### Git
+
+* [Git](https://git-scm.com/)
+* [Git Command Line - 30 mins](http://tutorialzine.com/2016/06/learn-git-in-30-minutes/)
+* [GitLab](https://about.gitlab.com/)
+* [GitHub](https://github.com/)
+
+#### GitHub Markdown
 * [markdown-it demo](https://markdown-it.github.io/)
 * [Mastering markdown](https://guides.github.com/features/mastering-markdown/)
 * [Markdown Cheat Sheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 * [Emoji Cheat Sheet](http://www.webpagefx.com/tools/emoji-cheat-sheet/)
+
+#### ZenHub
+ZenHub is a powerful GitHub issue tracker for fast-moving teams:
+
+* [Turn GitHub into a robust project management platform](https://www.zenhub.com/?utm_campaign=LaunchBit&utm_medium=email&utm_source=carbon&utm_content=bsa-carbon&amp;utm_medium=ad&amp;utm_content=more-done-github&amp;utm_campaign=v4)
+
+
+#### Electron
+
+* [Electron](http://tutorialzine.com/2015/12/creating-your-first-desktop-app-with-html-js-and-electron/)
+
+#### NW.js
+
+* [NW.js](http://tutorialzine.com/2015/01/your-first-node-webkit-app/)
+
+#### DevOps
+
+Becoming increasingly popular, basically devs that can also do infrastructure.
+Quicker Release and Faster Issues Fixing in Production.
+Helped by Tools such as:
+
+* [Docker](https://www.docker.com/) 
+* [Ansible](https://www.ansible.com/)
+
+
+### Bots
+
+Bots are the new mobile apps.
+
+#### Chat Bots
+
+* [Intro to Chatbots](http://tutorialzine.com/2016/11/introduction-to-chatbots/)
+
+#### Facebook Messenger
+
+* [Messenger Platform](https://developers.facebook.com/docs/messenger-platform)
+* [How to Build bots for Facebook Messnger](https://developers.facebook.com/blog/post/2016/04/12/bots-for-messenger/)
+
+### Cloud
+Cloud is seeing large companies closing down their datacenters and moving there infrastructure there. The main 3 platforms are listed below:
+
+* [AWS](https://aws.amazon.com/)
+* [Azure] (https://azure.microsoft.com/en-us/)
+* [Google Cloud](https://cloud.google.com/)
+
+#### Azure
+*
+
+#### AWS
+
+* [Training & Instructional Videos (AWS Official)](https://aws.amazon.com/training/intro_series/)
+* [QwikLabs Labs (Free)](https://run.qwiklab.com/catalog?locale=en&tab=labs)
+
+
+### Machine Learning (ML)
+
+Machine Learning (ML) has exploded in popularity during the last twelve months. 
+And with the historic AlphaGo vs Lee Sedol match in March, it entered the mainstream. 
+Smart computer systems that learn from raw data are revolutionizing the way we interact with our mobile devices. 
+By the looks of it, ML will be an even bigger factor in 2017.
+
+### Artificial Intelligence (AI)
+
+Speech recognition and image classification are only two of the user facing applications of the technology, with machines reaching and even surpassing human level performance.
+
+A lot of Startups apply AI and ML, to new domains. A lot of Open-source projects have been released:
+
+* [Google: Tensor Flow](https://www.tensorflow.org/)
+* [Microsoft Cognitive Toolkit](https://www.microsoft.com/en-us/research/product/cognitive-toolkit/)
+* [MS CT - GitHub](https://github.com/microsoft/cntk)
+
+A very maths-centric, intensive topic, so courses are required:
+
+* [Deep Learning By Google (Free Course, Predictive Modelling)](https://www.udacity.com/course/deep-learning--ud730)
+
+* [Connection IBM Watson to IoT With Intel Gateway Software Suites](https://software.intel.com/en-us/articles/connecting-to-the-ibm-watson-iot-platform-with-intel-iot-gateway-software-suites-0)_
+* [Github JAVA Irrigation System](https://software.intel.com/en-us/articles/watering-system-in-java)
+
+
+### Virtual Reality (VR)
+
+* [Facebook: Oculus Rift](https://www.oculus.com/)
+* [Google: Daydream](https://vr.google.com/daydream/)
+* [Microsoft Holograph/ Hololens](https://developer.microsoft.com/en-us/windows/holographic)
+
+### Augmented Reality (AR)
+
+Superimposed images and tools on top of Phone Cameras. Can be used for Gamification, Measuring, Proximity Marketing.
 
 ___
 
@@ -34,9 +189,9 @@ ___
 * [What is LoRA](https://www.lora-alliance.org/what-is-lora/technology)
 
 ### Artificial Inteligence
-
 * [Connection IBM Watson to IoT With Intel Gateway Software Suites](https://software.intel.com/en-us/articles/connecting-to-the-ibm-watson-iot-platform-with-intel-iot-gateway-software-suites-0)_
 * [Github JAVA Irrigation System](https://software.intel.com/en-us/articles/watering-system-in-java)
+
 
 ### Augmented Reality
 
@@ -63,7 +218,38 @@ ___
 ___
 ##Modern Web Development
 
+### Bootstrap
+
+####Bootstrap
+
+Bootstrap 4 to come out in 2017?
+
+* [Bootstrap 3 Tutorial For Beginners (youtube)](https://www.youtube.com/watch?v=0YnF7N_R0_4)
+* [Bootstrap Tutorial Derek Bananas (youtube)](https://www.youtube.com/watch?v=gqOEoUR5RHg)
+* [Elegant Bootstrap Forms](http://tutorialzine.com/2016/11/freebie-3-elegant-bootstrap-forms/)
+* [Bootstrap 4 Regular grid vs Flex Grid](http://tutorialzine.com/2016/11/boostrap-4-regular-vs-flex-grid/)
+
+#### Bootstrap Studio
+
+Bootstrap Studio is a powerful desktop app for designing and prototyping websites.
+It comes with a large number of built-in components, which you can drag and drop to assemble responsive web pages. 
+Its built on top of the hugely popular Bootstrap framework, and exports clean and semantic HTML. 
+
+* [Official Bootstrap Studio](https://bootstrapstudio.io/)
+* [How to make a web site in Bootstrap Studio (youtube)](https://www.youtube.com/watch?v=YAEALKYT3bM)
+* [12 Videos by NightShooter (youtube)](https://www.youtube.com/watch?v=bhqQQXgPMiw&list=PLV0iSHLFgTw5_ou76sDkQ3gJUTaKx8ufz)
+* [Creating a Website with Bootstrap Studio (youtube)](https://www.youtube.com/watch?v=10SwsoYNkVc)
+
+#### Templates, Freebies etc
+
+* [5 Fantastic Bootstrap Footers](http://tutorialzine.com/2016/10/freebie-5-fantastic-bootstrap-footers/)
+
+
 ### Angular 2 
+
+Free E-books
+* [Rangle.io Free Ebook](https://www.gitbook.com/book/rangle-io/ngcourse2/details)
+
 * [Official Angular 2 Design Docs (Google)](https://drive.google.com/drive/folders/0B7Ovm8bUYiUDR29iSkEyMk5pVUk)
 * [Official Angular 2 - 5 min quickstart](https://angular.io/docs/js/latest/quickstart.html)
 * [Angular 2 Education Rsources](https://github.com/timjacobi/angular2-education)
@@ -76,6 +262,7 @@ ___
 #### Key Concepts
 * [Thinking in Angular 2 -  an overview of concepts for JavaScript developers on youtube](https://youtu.be/XlqoPpLMdwY)
 * [Getting Started in Angular 2](https://html5hive.org/getting-started-with-angular-2/)
+* [30 Learning Resources for Angular 2](http://tutorialzine.com/2016/09/30-learning-resources-for-mastering-angular-2/)
 
 #### Seeds
 * [Angular 2 Seed](https://github.com/angular/angular2-seed)
@@ -135,6 +322,12 @@ ___
 
 ### Cascading Style Sheets
 
+* [20 Tips for wrting pro CSS](http://tutorialzine.com/2016/08/20-protips-for-writing-modern-css/)
+
+#### SAAS and Compass
+* [SASS Derek Bananas (youtube)](https://www.youtube.com/watch?v=wz3kElLbEHE&feature=iv&src_vid=gqOEoUR5RHg&annotation_id=video%3Aced7ab79-d3eb-4172-b22c-42d82f1eea3e)
+* [SASS Video and Code, Derek Bananas](http://www.newthinktank.com/2015/04/sass-video-tutorial/)
+
 #### REM units
 * [Understanding REM units (Sitepoint)](https://www.sitepoint.com/understanding-and-using-rem-units-in-css/)
 
@@ -158,16 +351,21 @@ ___
 
 ### JavaScript
 
+* [Getting you GeoLocation position](http://tutorialzine.com/2016/06/quick-tip-detecting-your-location-with-javascript/)
+* [Taking a selfie with JavaScript](http://tutorialzine.com/2016/07/take-a-selfie-with-js/)
+
 #### Introduction
 
 * [Mozilla Reintroducing JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript/A_re-introduction_to_JavaScript)
 
 #### Visualisation Frameworks
+
 * [Visualisation](https://gist.github.com/jexchan/1519274)
 
 
 ### TypeScript
 
+* [Learn TypeScript in 30 mins (tutorialzine)](http://tutorialzine.com/2016/07/learn-typescript-in-30-minutes/)
 
 ### Node JS
 
@@ -205,17 +403,5 @@ ___
 #### Samples
 * [NativeScript Code Samples](https://github.com/NativeScript/nativescript-sdk-examples-ng)
 
----
 
-## Cloud and SaaS
-***
-### Azure
-***
-### AWS
-
-* [Training & Instructional Videos (AWS Official)](https://aws.amazon.com/training/intro_series/)
-* [QwikLabs Labs (Free)](https://run.qwiklab.com/catalog?locale=en&tab=labs)
-
-***
-### Facebook Messnger
 
