@@ -6,9 +6,12 @@ A curated list of helpful material to start learning Modern Development Things :
 
 ___
 
-## Games to Watch out for
+## Gaming
 
 * [Witcher 3 - Alternative Endings](https://www.vg247.com/2015/12/22/the-witcher-3-how-to-get-the-best-ending/)
+
+### Games to Watch out for
+
 * [Cyberpunk 2077](https://www.youtube.com/watch?v=sPZxkhLoukI)
 
 ___
@@ -81,7 +84,8 @@ Still uses npm package registry as its backend. Compatible with <i>packages.json
 ZenHub is a powerful GitHub issue tracker for fast-moving teams:
 
 * [Turn GitHub into a robust project management platform](https://www.zenhub.com/?utm_campaign=LaunchBit&utm_medium=email&utm_source=carbon&utm_content=bsa-carbon&amp;utm_medium=ad&amp;utm_content=more-done-github&amp;utm_campaign=v4)
-
+* [How NASA JPL modernised their development workflow](https://www.zenhub.com/customer-stories/nasas-jet-propulsion-lab)
+* [Pricing](https://www.zenhub.com/customer-stories/nasas-jet-propulsion-lab)
 
 #### Electron
 
