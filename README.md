@@ -243,6 +243,8 @@ Free E-books
 * [Angular 2 and TypeScript Beginner Web Development](https://www.udemy.com/angular2/)
 * [Free Course with Coursetro.com](https://coursetro.com/courses/8/Learn-Angular-2-Development-with-our-Free-Course)
 * [Angular 2 TypeScript Tutorials](http://www.angulartypescript.com/angular-2-tutorial/)
+* [Angular 2 Fundamentals](http://courses.angularclass.com/courses/enrolled/angular-2-fundamentals)
+* [Modern JavaScript](http://courses.angularclass.com/courses/modern-javascript/lectures/1223877)
 
 #### Key Concepts
 * [Thinking in Angular 2 -  an overview of concepts for JavaScript developers on youtube](https://youtu.be/XlqoPpLMdwY)
