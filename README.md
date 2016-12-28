@@ -341,8 +341,6 @@ Its built on top of the hugely popular Bootstrap framework, and exports clean an
 * [5 Fantastic Bootstrap Footers](http://tutorialzine.com/2016/10/freebie-5-fantastic-bootstrap-footers/)
 
 
-
-
 ### HTML 5
 
 * [HTML5 and CSS Course - Learn](https://academy.zenva.com/product/programming-for-entrepreneurs-html-css/?zva_src=html5hive)
@@ -361,6 +359,18 @@ Its built on top of the hugely popular Bootstrap framework, and exports clean an
 * [Drawing Inside Canvas](http://stackoverflow.com/questions/36163905/angular2-component-based-on-canvas-how-to-draw-inside)
 
 ### JavaScript
+
+#### Ebooks
+* [List of Awesome Free Books](http://tutorialzine.com/2015/05/15-awesome-and-free-javascript-books/)
+
+#### ECMAScript 6
+
+* [Understanding ES6](https://leanpub.com/understandinges6/read)
+
+#### Menus
+* [Wonderful JavaScript option menus](http://tutorialzine.com/2015/11/freebie-4-wonderful-javascript-option-menus/)
+
+#### General
 
 * [Getting you GeoLocation position](http://tutorialzine.com/2016/06/quick-tip-detecting-your-location-with-javascript/)
 * [Taking a selfie with JavaScript](http://tutorialzine.com/2016/07/take-a-selfie-with-js/)
