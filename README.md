@@ -262,6 +262,7 @@ Free E-books
 
 #### Courses
 * [Angular 2 and TypeScript Beginner Web Development](https://www.udemy.com/angular2/)
+* [Free Course with Coursetro.com](https://coursetro.com/courses/8/Learn-Angular-2-Development-with-our-Free-Course)
 
 #### Key Concepts
 * [Thinking in Angular 2 -  an overview of concepts for JavaScript developers on youtube](https://youtu.be/XlqoPpLMdwY)
@@ -326,7 +327,12 @@ Free E-books
 
 ### Cascading Style Sheets
 
-* [20 Tips for wrting pro CSS](http://tutorialzine.com/2016/08/20-protips-for-writing-modern-css/)
+* [20 Tips for writing pro CSS](http://tutorialzine.com/2016/08/20-protips-for-writing-modern-css/)
+* [Easy Responsive Headers](http://tutorialzine.com/2016/02/quick-tip-easiest-way-to-make-responsive-headers/)
+* [Sticky Footers](http://tutorialzine.com/2016/03/quick-tip-the-best-way-to-make-sticky-footers/)
+
+* [Material Design Franeworks](http://tutorialzine.com/2016/03/the-15-best-material-design-frameworks-and-libraries/)
+
 
 #### SAAS and Compass
 * [SASS Derek Bananas (youtube)](https://www.youtube.com/watch?v=wz3kElLbEHE&feature=iv&src_vid=gqOEoUR5RHg&annotation_id=video%3Aced7ab79-d3eb-4172-b22c-42d82f1eea3e)
