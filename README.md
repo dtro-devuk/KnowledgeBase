@@ -16,6 +16,12 @@ ___
 
 ___
 
+## Chrome Extensions for Developers
+
+* [36 handy Chrome Extensions for Developers](http://tutorialzine.com/2015/06/35-handy-chrome-extensions-and-apps-for-developers/)
+
+___
+
 ## Trends for 2017, Langauges and Frameworks you should learn!
 
 * [Language Frameworks and Tools for 2017](http://tutorialzine.com/2016/12/the-languages-frameworks-tools-you-should-learn-in-2017/)
@@ -236,6 +242,7 @@ Free E-books
 #### Courses
 * [Angular 2 and TypeScript Beginner Web Development](https://www.udemy.com/angular2/)
 * [Free Course with Coursetro.com](https://coursetro.com/courses/8/Learn-Angular-2-Development-with-our-Free-Course)
+* [Angular 2 TypeScript Tutorials](http://www.angulartypescript.com/angular-2-tutorial/)
 
 #### Key Concepts
 * [Thinking in Angular 2 -  an overview of concepts for JavaScript developers on youtube](https://youtu.be/XlqoPpLMdwY)
@@ -297,6 +304,10 @@ Free E-books
 * [Demo of Admin Panel Framework](http://akveo.com/ng2-admin/#/pages/dashboard)
 * [Admin Panel Framework - Github code](https://github.com/akveo/ng2-admin)
 
+#### Example Custom Components
+* [Responsive Carousel](https://embed.plnkr.co/VKLszgqJtobyVruBj3Op/)
+* [Angular 2 SlideShow](https://github.com/marek1/angular-2-slide-show)
+* [Angular2 TypeScript Carousel](http://www.angulartypescript.com/angular-2-carousel/)
 
 ### Cascading Style Sheets
 
@@ -340,16 +351,27 @@ Its built on top of the hugely popular Bootstrap framework, and exports clean an
 
 * [5 Fantastic Bootstrap Footers](http://tutorialzine.com/2016/10/freebie-5-fantastic-bootstrap-footers/)
 
+### Responsive Web Design
+
+* [50 usefult tools for RWD](http://tutorialzine.com/2014/12/50-useful-libraries-resources-responsive-design/)
+* [50 Awesome Web resources for Developers](http://tutorialzine.com/2014/09/50-awesome-tools-and-resources-for-web-developers/)
 
 ### HTML 5
 
 * [HTML5 and CSS Course - Learn](https://academy.zenva.com/product/programming-for-entrepreneurs-html-css/?zva_src=html5hive)
 
 #### Canvas
+* [Mozilla Canavas Tutorials](https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API/Tutorial)
+
+#### Music Player
+* [HTML5 Music Player](http://tutorialzine.com/2015/03/html5-music-player/)
+
+#### NodeJS and Socket.io
+* [Smartphone Remote control](http://tutorialzine.com/2015/02/smartphone-remote-control-for-presentations/)
 
 ##### General
 
-* [Mozilla Canavas Tutorials](https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API/Tutorial)
+* [Easy Form Validation](http://tutorialzine.com/2014/12/quick-tip-easy-form-validation-with-html5/)
 
 ##### Angular 2
 
@@ -369,6 +391,17 @@ Its built on top of the hugely popular Bootstrap framework, and exports clean an
 
 #### Menus
 * [Wonderful JavaScript option menus](http://tutorialzine.com/2015/11/freebie-4-wonderful-javascript-option-menus/)
+* [4 Responsive Navigation Menus](http://tutorialzine.com/2015/05/freebie-4-sweet-and-responsive-navigation-menus/)
+* [Responsive Sidbars](http://demo.tutorialzine.com/2015/04/freebie-5-elegant-and-responsive-sidebar-templates/index.html)
+* [Responsive Header templates](http://tutorialzine.com/2015/02/freebie-7-responsive-header-templates/)
+* [5 responsive Footer templates](http://tutorialzine.com/2015/01/freebie-5-responsive-footer-templates/)
+
+#### Youtube
+
+* [How to control youtubes video player](http://tutorialzine.com/2015/08/how-to-control-youtubes-video-player-with-javascript/)
+
+#### JQuery Slide Show plugin
+* [Slide Show Plugin](http://tutorialzine.com/2014/05/jquery-image-slideshow-plugin/)
 
 #### General
 
@@ -391,7 +424,7 @@ Its built on top of the hugely popular Bootstrap framework, and exports clean an
 ### Node JS
 
 * [Enable HTML5 Mode Page Refresh Without 404 Errors in NodeJS and IIS](http://jasonwatmore.com/post/2016/07/26/angularjs-enable-html5-mode-page-refresh-without-404-errors-in-nodejs-and-iis)
-
+* [Realtime Visitor Globe](http://tutorialzine.com/2014/09/real-time-visitor-globe-nodejs-webgl/)
 ___
 
 
