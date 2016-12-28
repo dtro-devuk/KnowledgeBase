@@ -308,6 +308,9 @@ Free E-books
 * [Responsive Carousel](https://embed.plnkr.co/VKLszgqJtobyVruBj3Op/)
 * [Angular 2 SlideShow](https://github.com/marek1/angular-2-slide-show)
 * [Angular2 TypeScript Carousel](http://www.angulartypescript.com/angular-2-carousel/)
+* [Building a Feed Service](https://www.becompany.ch/en/blog/tech/2016/09/19/angular2-rss-reader.html)
+* [Building a Feed Service BeCompnay Github](https://github.com/becompany/angular2-rss-reader-tutorial)
+* [NewsReader Example](https://github.com/Kamshak/newsreader/tree/master/src/app)
 
 ### Cascading Style Sheets
 
@@ -316,6 +319,9 @@ Free E-books
 * [Sticky Footers](http://tutorialzine.com/2016/03/quick-tip-the-best-way-to-make-sticky-footers/)
 
 * [Material Design Franeworks](http://tutorialzine.com/2016/03/the-15-best-material-design-frameworks-and-libraries/)
+
+* [CSS3 Techniques and Examples](http://tutorialzine.com/2014/07/20-impressive-css3-techniques-libraries-and-examples/)
+* [CSS Inline Help Tips](http://tutorialzine.com/2014/07/css-inline-help-tips/)
 
 #### SAAS and Compass
 * [SASS Derek Bananas (youtube)](https://www.youtube.com/watch?v=wz3kElLbEHE&feature=iv&src_vid=gqOEoUR5RHg&annotation_id=video%3Aced7ab79-d3eb-4172-b22c-42d82f1eea3e)
@@ -407,6 +413,8 @@ Its built on top of the hugely popular Bootstrap framework, and exports clean an
 
 * [Getting you GeoLocation position](http://tutorialzine.com/2016/06/quick-tip-detecting-your-location-with-javascript/)
 * [Taking a selfie with JavaScript](http://tutorialzine.com/2016/07/take-a-selfie-with-js/)
+* [Digital Clock](http://tutorialzine.com/2013/06/digital-clock/)
+
 
 #### Introduction
 
