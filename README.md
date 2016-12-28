@@ -267,7 +267,7 @@ Free E-books
 * [Writing your first component - an intro (Local Weather)](http://blog.falafel.com/writing-first-angular-2-component/)
 * [Angular Weather component](https://github.com/mschwarzmueller/angular2-weather-app-tut/tree/02-weather-item-list/dev)
 * [A2 Components (Parent and Child) Plunker](http://plnkr.co/edit/rH2vGgFluLXHCsgfkNjF?p=preview)
-* [Joes Dasgboard (Plubker)](https://plnkr.co/edit/ixhMY4bM0sXJa6ODKcpB?p=preview)
+* [Joes Dashboard (Plubker)](https://plnkr.co/edit/ixhMY4bM0sXJa6ODKcpB?p=preview)
 
 #### Projection/ Transclusion
 * [Using Ng-Content (Scotch.io) ](https://scotch.io/tutorials/angular-2-transclusion-using-ng-content)
@@ -311,6 +311,10 @@ Free E-books
 * [Building a Feed Service](https://www.becompany.ch/en/blog/tech/2016/09/19/angular2-rss-reader.html)
 * [Building a Feed Service BeCompnay Github](https://github.com/becompany/angular2-rss-reader-tutorial)
 * [NewsReader Example](https://github.com/Kamshak/newsreader/tree/master/src/app)
+* [Building Hacker News Component](http://houssein.me/angular2-hacker-news)
+* [Building Hacker News Component GitHub Code](https://github.com/hdjirdeh/angular2-hn)
+* [Revisting Realtime Angular 2](https://blog.pusher.com/revisiting-realtime-angular-2/)
+* [Angular 2 and instantiation of a camera stream with html 5 video](http://stackoverflow.com/questions/40131772/angular-2-and-instantiation-of-a-camera-stream-with-html-5-video)
 
 ### Cascading Style Sheets
 
