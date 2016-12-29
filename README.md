@@ -28,6 +28,9 @@ ___
 * [15 Interesting JavaScript and CSS Libraries for December 2016](http://tutorialzine.com/2016/12/15-interesting-javascript-and-css-libraries-for-december-2016/)
 * [15 Interesting JavaScript and CSS Libraries for November 2016](http://tutorialzine.com/2016/11/15-interesting-javascript-and-css-libraries-for-november-2016/)
 
+### App Growth
+* [How to Grfow your app](https://techcrunch.com/2016/12/26/how-to-grow-your-app/?ncid=rss)
+
 ### Progressive Web Apps (PWA)
 
 2016 saw the rise of Progressive Web Apps, i.e. web apps that work offline and offer a native app-like experience. Add them to your smart devices homescreen, and send push notifications, 
@@ -164,6 +167,7 @@ A very maths-centric, intensive topic, so courses are required:
 * [Connection IBM Watson to IoT With Intel Gateway Software Suites](https://software.intel.com/en-us/articles/connecting-to-the-ibm-watson-iot-platform-with-intel-iot-gateway-software-suites-0)_
 * [Github JAVA Irrigation System](https://software.intel.com/en-us/articles/watering-system-in-java)
 
+* [The Great AI Awakening](http://www.nytimes.com/2016/12/14/magazine/the-great-ai-awakening.html?_r=0)
 
 ### Virtual Reality (VR)
 
@@ -175,12 +179,15 @@ A very maths-centric, intensive topic, so courses are required:
 
 Superimposed images and tools on top of Phone Cameras. Can be used for Gamification, Measuring, Proximity Marketing.
 
+* [http://fortune.com/2016/12/14/public-virtual-reality-lab-new-york/](http://fortune.com/2016/12/14/public-virtual-reality-lab-new-york/)
+
 ___
 
 ## IoT
 
 * [IoT UK](https://iotuk.org.uk)
 * [Cool Things to buy on Amazon](https://www.youtube.com/watch?v=PdLBRPkZObA&sns=em)
+* [IoT Startups to watch 2017](https://www.siliconrepublic.com/machines/iot-startups-2017-europe-startup-100)
 
 ### Raspberry PI
 * [Gadgets 360](http://gadgets.ndtv.com/tags/raspberry-pi)
@@ -196,7 +203,15 @@ ___
 * [Sensing the opportunities with next generation IoT beacon Technology](http://www.iottechnews.com/news/2016/jun/15/sensing-opportunities-next-generation-iot-beacon-technology)
 * [ARM Innovation Hub](https://www.arm.com/innovation/)
 
+#### LoRA
+
 * [What is LoRA](https://www.lora-alliance.org/what-is-lora/technology)
+
+#### HyperCat
+
+### Dos and Donts
+* [6 IoT Design Mistakes](http://www.jps-pcb.com/blog/six-iot-design-mistakes-you-need-to-avoid.html)
+
 
 ### Artificial Inteligence
 * [Connection IBM Watson to IoT With Intel Gateway Software Suites](https://software.intel.com/en-us/articles/connecting-to-the-ibm-watson-iot-platform-with-intel-iot-gateway-software-suites-0)_
@@ -210,6 +225,12 @@ ___
 
 *
 
+### Face Recognition
+
+* [Face Detection Opensource](https://facedetection.com/software/)
+* [MicrosoftFaceApi Package](https://rapidapi.com/package/MicrosoftFaceApi?utm_source=google&utm_medium=ppc&utm_term=MicrosoftFaceApi&gclid=CO7vhNPHmdECFaoW0wodjhcIUQ)
+* [Free Face Reco Software](http://www.geekomad.com/2013/12/3-free-face-recognition-software-to.html)
+
 ### Voice Activated
 
 #### Alexa (Echo)
@@ -221,6 +242,8 @@ ___
 * [Amazon Echo Homebrew Version (RPi](https://www.raspberrypi.org/blog/amazon-echo-homebrew-version/)
 * [Github Sample App - Hands Free Alexa in 60 mins](https://github.com/alexa/alexa-avs-sample-app)
 * [How to build your own Amazon Echo with a Pi](http://lifehacker.com/how-to-build-your-own-amazon-echo-with-a-raspberry-pi-1787726931)
+* [Voice is the next big thing and Alexa will own it](https://backchannel.com/voice-is-the-next-big-platform-and-alexa-will-own-it-c2cf13fab911#.i9mnbh8v5)
+* [Hey Alex are things going to get weird](https://techcrunch.com/2016/12/27/hey-alexa-are-things-going-to-get-weird/?ncid=rss)
 
 ### Nova Spirit 
 * [NS](https://m.youtube.com/channel/UCrjKdwxaQMSV_NDywgKXVmw)
@@ -238,6 +261,15 @@ Free E-books
 * [Angular 2 Education Rsources](https://github.com/timjacobi/angular2-education)
 * [Awesome Angular 2](https://github.com/AngularClass/awesome-angular2)
 * [Angular 2 Cookbook](https://angular.io/docs/ts/latest/cookbook/)
+
+#### Basics
+* [Angular 2 Guide](https://angular.io/docs/ts/latest/guide/)
+* [Cheat Sheet](https://angular.io/docs/ts/latest/guide/cheatsheet.html)
+* [Style Guide](https://angular.io/docs/ts/latest/guide/style-guide.html)
+* [Glossary](https://angular.io/docs/ts/latest/guide/glossary.html)
+* [What is the difference between parentheses, brackets and asterisks in Angular2?](http://stackoverflow.com/questions/35944749/what-is-the-difference-between-parentheses-brackets-and-asterisks-in-angular2)
+* [Is usage of Parenthesis, Barackets etc mandatory](http://stackoverflow.com/questions/27919650/angular-2-is-usage-of-parentheses-square-brackets-mandatory)
+
 
 #### Courses
 * [Angular 2 and TypeScript Beginner Web Development](https://www.udemy.com/angular2/)
@@ -261,7 +293,6 @@ Free E-books
 #### Angular 2 Modules
 * [Quick Start Tutorial on youtube](https://youtu.be/L0XXoPqSphs)
 
-
 #### Components
 * [Flattening Deep Heirarchies of Components](http://blog.rangle.io/flattening-deep-hierarchies-of-components/)
 * [Responding to component events(Rangle.io)](https://angular-2-training-book.rangle.io/handout/components/app_structure/responding_to_component_events.html)
@@ -270,6 +301,7 @@ Free E-books
 * [Angular Weather component](https://github.com/mschwarzmueller/angular2-weather-app-tut/tree/02-weather-item-list/dev)
 * [A2 Components (Parent and Child) Plunker](http://plnkr.co/edit/rH2vGgFluLXHCsgfkNjF?p=preview)
 * [Joes Dashboard (Plubker)](https://plnkr.co/edit/ixhMY4bM0sXJa6ODKcpB?p=preview)
+* [Integrating Web Components with Angular](http://pascalprecht.github.io/2014/10/25/integrating-web-components-with-angularjs/)
 
 #### Projection/ Transclusion
 * [Using Ng-Content (Scotch.io) ](https://scotch.io/tutorials/angular-2-transclusion-using-ng-content)
@@ -296,6 +328,11 @@ Free E-books
 
 #### Optimisation
 * [Tree Shaking](http://blog.rangle.io/optimize-your-angular2-application-with-tree-shaking/)
+* [Performance Optimisation In Angular 2](https://eyalvardi.wordpress.com/2016/12/20/performance-optimization-in-angular-2-0/)
+* [Change Detection demos](http://ng-course.org/ng-course/demos/change_detection/index.html#/ondirty)
+* [Building an Angular 2 Application for Production](http://blog.mgechev.com/2016/06/26/tree-shaking-angular2-production-build-rollup-javascript/)
+* [ANGULAR 2 BEST PRACTICES: CHANGE DETECTOR PERFORMANCE](https://www.lucidchart.com/techblog/2016/05/04/angular-2-best-practices-change-detector-performance/)
+* [Best Practices to Level Up](https://blog.budacode.com/2016/06/27/angular-2-best-practises/)
 
 #### Apps and Tutorials
 * [Angular JS Chat with Loopback](https://www.codetutorial.io/angularjs-chat-whit-socket-io-and-loopback/)
