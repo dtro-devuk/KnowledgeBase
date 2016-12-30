@@ -251,8 +251,7 @@ ___
 ___
 ##Modern Web Development
 
-### Angular 2 
-[Angular 2 !](AngularJS/Angular-2.md)
+### [Angular 2](AngularJS/Angular-2.md)
 
 
 

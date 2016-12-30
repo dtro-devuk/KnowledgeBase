@@ -5,7 +5,7 @@
 ##### Current Angular 2 version:
 ![version](https://img.shields.io/npm/v/@angular/core.svg?maxAge=2592000)
 
-Free E-books
+### Free E-books
 * [Rangle.io Free Ebook](https://www.gitbook.com/book/rangle-io/ngcourse2/details)
 
 ### Introduction
