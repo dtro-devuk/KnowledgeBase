@@ -183,7 +183,7 @@ Superimposed images and tools on top of Phone Cameras. Can be used for Gamificat
 
 ___
 
-## [IoT](IoT/Iot-KB.md)
+## [IoT](IoT/IoT-KB.md)
 
 ##Modern Web Development
 
