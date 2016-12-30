@@ -252,6 +252,9 @@ ___
 ##Modern Web Development
 
 ### Angular 2 
+[Angular 2 !](AngularJS/Angular-2.md)
+
+
 
 Free E-books
 * [Rangle.io Free Ebook](https://www.gitbook.com/book/rangle-io/ngcourse2/details)
