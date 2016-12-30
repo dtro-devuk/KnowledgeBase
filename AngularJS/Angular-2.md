@@ -76,7 +76,7 @@
 * [Angular.io - Dynamic Forms](https://angular.io/docs/ts/latest/cookbook/dynamic-form.html)
 
 * [Angular 2 Forms: Template Driven vs Model Driven (Angular University](http://blog.angular-university.io/introduction-to-angular-2-forms-template-driven-vs-model-driven/)
-* [Forms](http://plnkr.co/edit/KgjSTj7VqbWMnRdYZdxM?p=preview)
+* [Angular 2 - Custom Validator Directive (final) scotch](http://plnkr.co/edit/KgjSTj7VqbWMnRdYZdxM?p=preview)
 
 * [The Ultimate Guide to Forms in Angular 2 (ng-book)](http://blog.ng-book.com/the-ultimate-guide-to-forms-in-angular-2/)
 
