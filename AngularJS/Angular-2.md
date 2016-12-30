@@ -60,30 +60,67 @@
 * [Responding to component events(Rangle.io)](https://angular-2-training-book.rangle.io/handout/components/app_structure/responding_to_component_events.html)
 * [Building Wunderground.com: Component Reuse on a Page](http://www.mediacurrent.com/blog/building-wundergroundcom-drupal-angular-2-component-reuse-page-challenge-2)
 * [Writing your first component - an intro (Local Weather)](http://blog.falafel.com/writing-first-angular-2-component/)
-* [Angular Weather component](https://github.com/mschwarzmueller/angular2-weather-app-tut/tree/02-weather-item-list/dev)
-* [A2 Components (Parent and Child) Plunker](http://plnkr.co/edit/rH2vGgFluLXHCsgfkNjF?p=preview)
-* [Joes Dashboard (Plubker)](https://plnkr.co/edit/ixhMY4bM0sXJa6ODKcpB?p=preview)
 * [Integrating Web Components with Angular](http://pascalprecht.github.io/2014/10/25/integrating-web-components-with-angularjs/)
+* [Angular 2 – Communication Between Components & Components Design](http://orizens.com/wp/topics/angular-2-communication-between-components-components-design/)
+
+#####Examples
+* [Angular 2 Components (Parent and Child) Plunker](http://plnkr.co/edit/rH2vGgFluLXHCsgfkNjF?p=preview)
+* [Angular Weather component](https://github.com/mschwarzmueller/angular2-weather-app-tut/tree/02-weather-item-list/dev)
+* [Joes Dashboard (Plunker)](https://plnkr.co/edit/ixhMY4bM0sXJa6ODKcpB?p=preview)
 
 #### Projection/ Transclusion
 * [Using Ng-Content (Scotch.io) ](https://scotch.io/tutorials/angular-2-transclusion-using-ng-content)
 
 #### Forms
-* [Dynamic Forms](https://angular.io/docs/ts/latest/cookbook/dynamic-form.html)
+* [Angular.io - Form Validation Cookbook](https://angular.io/docs/ts/latest/cookbook/form-validation.html)
+* [Angular.io - Dynamic Forms](https://angular.io/docs/ts/latest/cookbook/dynamic-form.html)
+
+* [Angular 2 Forms: Template Driven vs Model Driven (Angular University](http://blog.angular-university.io/introduction-to-angular-2-forms-template-driven-vs-model-driven/)
+* [Forms](http://plnkr.co/edit/KgjSTj7VqbWMnRdYZdxM?p=preview)
+
+* [The Ultimate Guide to Forms in Angular 2 (ng-book)](http://blog.ng-book.com/the-ultimate-guide-to-forms-in-angular-2/)
+
+##### Custom Form Controls
+
+* [Custom Form Controls in Angular by thoughtram](http://blog.thoughtram.io/angular/2016/07/27/custom-form-controls-in-angular-2.html)
+* [Angular 2: Connect your custom control to ngModel with Control Value Accessor](http://almerosteyn.com/2016/04/linkup-custom-control-to-ngcontrol-ngmodel)
+
+##### Custom Form Validation
+
+* [Auth0: Angular 2 Series - Part 5: Forms and Custom Validation](https://auth0.com/blog/angular2-series-forms-and-custom-validation/)
+* [Custom Validators in Angular by thoughtram](http://blog.thoughtram.io/angular/2016/03/14/custom-validators-in-angular-2.html)
+
+##### Video 
+* [Video: Angular Air Episode 20: Angular 2 Forms - YouTube](https://m.youtube.com/watch?v=NuZKwcPmis8)
+* [Video: AngularJS 2.0 Forms - Extending Todo app with Forms Validation (Ajden Towfeek)](https://youtu.be/267ClmzfzvI)
+
 
 #### Services
 * [Creating and Injecting Services](blog.falafel.com/creating-injecting-angular-2-services/)
 
 #### RxJS
-* [RxJS Crash Course on youtube](https://youtu.be/ei7FsoXKPl0)
 * [Angular Introduction to Reactive Extensions (RxJS)](https://medium.com/google-developer-experts/angular-introduction-to-reactive-extensions-rxjs-a86a7430a61f#.1o4tur21g)
+* [Video: RxJS Crash Course on - YouTube](https://youtu.be/ei7FsoXKPl0)
+
+### Angular 2 NgRx/Store
+* [Adding Redux With NgRx/store and Angular2 - Part 1](http://orizens.com/wp/topics/adding-redux-with-ngrxstore-to-angular-2-part-1/)
+* [Adding Redux with NgRx/store to Angular2 – Part 2 (Testing Reducers)](http://orizens.com/wp/topics/adding-redux-with-ngrxstore-to-angular2-part-2-testing-reducers/)
+* [Angular 2 & NgRx/store: The NgModel In Between Use Case (from Angular 1)](http://orizens.com/wp/topics/angular-2-ngrxstore-the-ngmodel-in-between-use-case-from-angular-1/)
+* [Comprehensive Introduction to @ngrx/store](https://gist.github.com/btroncone/a6e4347326749f938510)
+* [Video: @ngrx/store in 10 minutes (egghead.io)](https://egghead.io/lessons/angular-2-ngrx-store-in-10-minutes)
 
 #### Security
 * [The DomSanitizer Service](https://netbasal.com/angular-2-security-the-domsanitizer-service-2202c83bd90#.gcd3gbx9i)
-* [Auth0 - Authentication Sample](https://github.com/auth0-blog/angular2-authentication-sample)
-* [User registration and login example and tutorial](http://jasonwatmore.com/post/2016/09/29/angular-2-user-registration-and-login-example-tutorial)
+
+##### Authentication
 * [Authentication Tutorial Part 1: Dzone](https://dzone.com/articles/angular-2-authentication-tutorial)
+* [User registration and login example and tutorial](http://jasonwatmore.com/post/2016/09/29/angular-2-user-registration-and-login-example-tutorial)
+* [Introducing angular2-jwt: A Library for Angular 2 Authentication](https://auth0.com/blog/introducing-angular2-jwt-a-library-for-angular2-authentication/)
+
 * [Auth0 Token Based Authentication : Daily Deals App](https://github.com/auth0-blog/angular-2-authentication-tutorial)
+* [Auth0 - Authentication Sample](https://github.com/auth0-blog/angular2-authentication-sample)
+* [Auth0 Angular 2 SDK Quickstarts](https://auth0.com/docs/quickstart/spa/angular2)
+* [GitHub - auth0-samples/auth0-angularjs2-systemjs-sample](https://github.com/auth0-samples/auth0-angularjs2-systemjs-sample)
 
 #### Custom Video HTML 5
 * [Building Custom HTML5 Video Playback with Angular 2 (Lynda.com)](https://www.lynda.com/AngularJS-tutorials/Building-Custom-HTML5-Video-Playback-AngularJS-2/488838-2.html)
