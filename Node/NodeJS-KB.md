@@ -1,4 +1,4 @@
-# ![NodeJS](..Node/res/nodejs-new-pantone-black.pdf?raw=true)
+# ![NodeJS](res/nodejs-new-pantone-black.pdf)
 By node.js authors (https://nodejs.org/about/resources/) [Public domain], via Wikimedia Commons
 
 ## Node JS Knowledge Base
