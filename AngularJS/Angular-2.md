@@ -69,7 +69,7 @@ Title | Author | Version | Group | Sub-Levels
 
 ##### Drag and Drop Components
 
-* [Dragula - Official Angular2 wrapper]https://github.com/valor-software/ng2-dragula)
+* [Dragula - Official Angular2 wrapper](https://github.com/valor-software/ng2-dragula)
 * [ng2Draggable - A modular Drag-Drop framework for Angular2](https://github.com/ivegotwings/ng2Draggable)
 * [How to implement draggable components (stackoverflow)](http://stackoverflow.com/questions/35662530/how-to-implement-drag-and-drop-in-angular2)
 * [Draggable components - Using a Div(stackoverflow)](http://stackoverflow.com/questions/36273791/how-to-implement-a-draggable-div-in-angular-2-using-rx)
