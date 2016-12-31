@@ -57,12 +57,7 @@ Other emerging languages-frameworks-tools-you-should-learn-in-2017/
 
 ### Backend
 
-NodeJS
-
-* [StrongLoop LoopBack](https://strongloop.com/node-js/loopback-framework/)
-* [NodalJS](http://www.nodaljs.com/)
-* []()
-* []()
+## [Node JS](Node/NodeJS-KB.md)
 
 ### Databases
 
