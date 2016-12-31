@@ -4,6 +4,14 @@ A curated list of helpful material to start learning Modern Development Things :
 
 Project Workflow using [ZenHub](https://www.zenhub.com/) 
 
+---
+title: Main Knowledge Base Page
+author: dtro-devuk
+version: 1.0
+group: Root 
+sub-levels: 2
+---
+
 * [Also some useful posts from Tutorialzine](http://tutorialzine.com/posts/page/1/)
 
 ___

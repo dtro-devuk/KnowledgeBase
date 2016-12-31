@@ -1,5 +1,14 @@
 ## Internet of Things Knowledge Base
 
+---
+title: Internet of Things Knowledge Base Page
+author: dtro-devuk
+version: 1.0
+group: IoT Development
+sub-levels: 0
+---
+
+
 * [IoT UK](https://iotuk.org.uk)
 * [Cool Things to buy on Amazon](https://www.youtube.com/watch?v=PdLBRPkZObA&sns=em)
 * [IoT Startups to watch 2017](https://www.siliconrepublic.com/machines/iot-startups-2017-europe-startup-100)

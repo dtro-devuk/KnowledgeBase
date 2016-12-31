@@ -5,6 +5,15 @@
 ##### Current Angular 2 version:
 ![version](https://img.shields.io/npm/v/@angular/core.svg?maxAge=2592000)
 
+
+---
+title: Angular 2 Knowledge Base Page
+author: dtro-devuk
+version: 1.0
+group: Angular Development
+sub-levels: 0
+---
+
 ### Free E-books
 * [Rangle.io Free Ebook](https://www.gitbook.com/book/rangle-io/ngcourse2/details)
 
@@ -132,6 +141,16 @@
 * [Building an Angular 2 Application for Production](http://blog.mgechev.com/2016/06/26/tree-shaking-angular2-production-build-rollup-javascript/)
 * [ANGULAR 2 BEST PRACTICES: CHANGE DETECTOR PERFORMANCE](https://www.lucidchart.com/techblog/2016/05/04/angular-2-best-practices-change-detector-performance/)
 * [Best Practices to Level Up](https://blog.budacode.com/2016/06/27/angular-2-best-practises/)
+
+#### AoT Compilation & lazy Loading
+* [Angular 2 NgModule Intro - Ahead Of Time Compilation And Lazy Loading - Avoid Common Pitfalls](http://blog.angular-university.io/angular2-ngmodule/)
+
+#### Dashboards
+* [Dashboard, uses Modules, Components, Lazy Loading, Routing and AOT Compilation (GitHub)](https://github.com/start-angular/SB-Admin-BS4-Angular-2)
+* [Admin panel framework based on Angular 2, Bootstrap 4 and Webpack](https://github.com/akveo/ng2-admin)
+8 [Blur Admin Panel](https://github.com/akveo/blur-admin?__hstc=205619788.32fd34431df0e257719c8be6cbf184cf.1483186997777.1483186997777.1483186997777.1&__hssc=205619788.2.1483186997777&__hsfp=130482484)
+* [Angular 1 - Material Dashboard](https://github.com/flatlogic/angular-material-dashboard)
+
 
 #### Apps and Tutorials
 * [Angular JS Chat with Loopback](https://www.codetutorial.io/angularjs-chat-whit-socket-io-and-loopback/)
