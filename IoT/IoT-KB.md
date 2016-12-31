@@ -3,7 +3,7 @@
 
 Title | Author | Version | Group | Sub-Levels
 --- | --- | --- | --- | ---
-*Internet of Things Knowledge Base Page* | dtro-devuk | 1.0 | IoT Development : **0**
+*Internet of Things Knowledge Base Page* | dtro-devuk | 1.0 | IoT Development | **0**
 
 
 

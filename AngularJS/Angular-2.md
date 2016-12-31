@@ -6,13 +6,10 @@
 ![version](https://img.shields.io/npm/v/@angular/core.svg?maxAge=2592000)
 
 
----
-title: Angular 2 Knowledge Base Page
-author: dtro-devuk
-version: 1.0
-group: Angular Development
-sub-levels: 0
----
+Title | Author | Version | Group | Sub-Levels
+--- | --- | --- | --- | ---
+*Angular 2 Knowledge Base Page* | dtro-devuk | 1.0 | Angular Development | **0**
+
 
 ### Free E-books
 * [Rangle.io Free Ebook](https://www.gitbook.com/book/rangle-io/ngcourse2/details)
