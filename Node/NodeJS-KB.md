@@ -1,4 +1,4 @@
-# ![NodeJS](https://commons.wikimedia.org/wiki/File%3ANode.js_logo.svg)
+# ![NodeJS](https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg)
 By node.js authors (https://nodejs.org/about/resources/) [Public domain], via Wikimedia Commons
 
 ## Node JS Knowledge Base
