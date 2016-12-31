@@ -1,12 +1,10 @@
 ## Internet of Things Knowledge Base
 
----
-title: Internet of Things Knowledge Base Page
-author: dtro-devuk
-version: 1.0
-group: IoT Development
-sub-levels: 0
----
+
+Title | Author | Version | Group | Sub-Levels
+--- | --- | --- | --- | ---
+*Internet of Things Knowledge Base Page* | dtro-devuk | 1.0 | IoT Development : **0**
+
 
 
 * [IoT UK](https://iotuk.org.uk)
