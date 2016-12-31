@@ -2,10 +2,6 @@
 
 ### Angular 2 Knowledge Base
 
-##### Current Angular 2 version:
-![version](https://img.shields.io/npm/v/@angular/core.svg?maxAge=2592000)
-
-
 Title | Author | Version | Group | Sub-Levels
 --- | --- | --- | --- | ---
 *Angular 2 Knowledge Base Page* | dtro-devuk | 1.0 | Angular Development | **0**
