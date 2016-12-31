@@ -17,7 +17,7 @@ By node.js authors (https://nodejs.org/about/resources/) [Public domain], via Wi
 An Opensource Framework for workshops and events using NodeJS, to teach web software skills.
 NodeSchool is a free online web development school that teaches skills ranging from JavaScript to WebGL, front end and back end. 
 
-*[Node School](https://nodeschool.io/)
+* [Node School](https://nodeschool.io/)
 
 #### Learn You Node
 * [Learn Node Workshop (GitHub Code courtesy of NodeSchool)](https://github.com/workshopper/learnyounode)
