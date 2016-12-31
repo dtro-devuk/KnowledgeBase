@@ -34,7 +34,6 @@ Title | Author | Version | Group | Sub-Levels
 * [What is the difference between parentheses, brackets and asterisks in Angular2?](http://stackoverflow.com/questions/35944749/what-is-the-difference-between-parentheses-brackets-and-asterisks-in-angular2)
 * [Is usage of Parenthesis, Barackets etc mandatory](http://stackoverflow.com/questions/27919650/angular-2-is-usage-of-parentheses-square-brackets-mandatory)
 
-
 #### Courses
 * [Angular 2 and TypeScript Beginner Web Development](https://www.udemy.com/angular2/)
 * [Free Course with Coursetro.com](https://coursetro.com/courses/8/Learn-Angular-2-Development-with-our-Free-Course)
@@ -65,10 +64,22 @@ Title | Author | Version | Group | Sub-Levels
 * [Integrating Web Components with Angular](http://pascalprecht.github.io/2014/10/25/integrating-web-components-with-angularjs/)
 * [Angular 2 – Communication Between Components & Components Design](http://orizens.com/wp/topics/angular-2-communication-between-components-components-design/)
 
-#####Examples
+##### Collapsible Components
+* [Collapsible Panel Component](http://blog.unshift.xyz/collapsable-panel-component-in-angular-2-and-angular-1-5/)
+
+##### Drag and Drop Components
+
+* [Dragula - Official Angular2 wrapper]https://github.com/valor-software/ng2-dragula)
+* [ng2Draggable - A modular Drag-Drop framework for Angular2](https://github.com/ivegotwings/ng2Draggable)
+* [How to implement draggable components (stackoverflow)](http://stackoverflow.com/questions/35662530/how-to-implement-drag-and-drop-in-angular2)
+* [Draggable components - Using a Div(stackoverflow)](http://stackoverflow.com/questions/36273791/how-to-implement-a-draggable-div-in-angular-2-using-rx)
+* [Drag & Drop between Multiple Components](https://github.com/valor-software/ng2-dragula/issues/187)
+* [Angular 2 Drag-and-Drop, without dependencies](https://github.com/akserg/ng2-dnd)
+
+##### Component Examples
 * [Angular 2 Components (Parent and Child) Plunker](http://plnkr.co/edit/rH2vGgFluLXHCsgfkNjF?p=preview)
 * [Angular Weather component](https://github.com/mschwarzmueller/angular2-weather-app-tut/tree/02-weather-item-list/dev)
-* [Joes Dashboard (Plunker)](https://plnkr.co/edit/ixhMY4bM0sXJa6ODKcpB?p=preview)
+* [Angular Sample Components](http://www.syntaxsuccess.com/angular-2-samples/#/demo/graph)
 
 #### Projection/ Transclusion
 * [Using Ng-Content (Scotch.io) ](https://scotch.io/tutorials/angular-2-transclusion-using-ng-content)
@@ -92,7 +103,7 @@ Title | Author | Version | Group | Sub-Levels
 * [Auth0: Angular 2 Series - Part 5: Forms and Custom Validation](https://auth0.com/blog/angular2-series-forms-and-custom-validation/)
 * [Custom Validators in Angular by thoughtram](http://blog.thoughtram.io/angular/2016/03/14/custom-validators-in-angular-2.html)
 
-##### Video 
+###### Video 
 * [Video: Angular Air Episode 20: Angular 2 Forms - YouTube](https://m.youtube.com/watch?v=NuZKwcPmis8)
 * [Video: AngularJS 2.0 Forms - Extending Todo app with Forms Validation (Ajden Towfeek)](https://youtu.be/267ClmzfzvI)
 
@@ -138,11 +149,14 @@ Title | Author | Version | Group | Sub-Levels
 #### AoT Compilation & lazy Loading
 * [Angular 2 NgModule Intro - Ahead Of Time Compilation And Lazy Loading - Avoid Common Pitfalls](http://blog.angular-university.io/angular2-ngmodule/)
 
+
+
 #### Dashboards
 * [Dashboard, uses Modules, Components, Lazy Loading, Routing and AOT Compilation (GitHub)](https://github.com/start-angular/SB-Admin-BS4-Angular-2)
 * [Admin panel framework based on Angular 2, Bootstrap 4 and Webpack](https://github.com/akveo/ng2-admin)
-8 [Blur Admin Panel](https://github.com/akveo/blur-admin?__hstc=205619788.32fd34431df0e257719c8be6cbf184cf.1483186997777.1483186997777.1483186997777.1&__hssc=205619788.2.1483186997777&__hsfp=130482484)
+* [Blur Admin Panel](https://github.com/akveo/blur-admin?__hstc=205619788.32fd34431df0e257719c8be6cbf184cf.1483186997777.1483186997777.1483186997777.1&__hssc=205619788.2.1483186997777&__hsfp=130482484)
 * [Angular 1 - Material Dashboard](https://github.com/flatlogic/angular-material-dashboard)
+* [Joes Dashboard (Plunker)](https://plnkr.co/edit/ixhMY4bM0sXJa6ODKcpB?p=preview)
 
 
 #### Apps and Tutorials

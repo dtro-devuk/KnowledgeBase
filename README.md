@@ -22,6 +22,10 @@ ___
 
 ___
 
+## Gadgets
+* [Babel Fish-like Ear-Peice - Tramslates](http://www.dailymail.co.uk/sciencetech/article-3592753/Don-t-panic-250-Babelfish-like-gadget-fits-inside-ear-translate-foreign-languages-real-time.html)
+___
+
 ## Chrome Extensions for Developers
 
 * [36 handy Chrome Extensions for Developers](http://tutorialzine.com/2015/06/35-handy-chrome-extensions-and-apps-for-developers/)
@@ -99,9 +103,13 @@ Its built on top of the hugely popular Bootstrap framework, and exports clean an
 ### HTML 5
 
 * [HTML5 and CSS Course - Learn](https://academy.zenva.com/product/programming-for-entrepreneurs-html-css/?zva_src=html5hive)
+* [Learn HTML 5](http://dynamite-gym.co.uk/Portfolio/experthtml5.html)
 
 #### Canvas
+* [Create JS](http://www.createjs.com/demos/easeljs/transform)
 * [Mozilla Canavas Tutorials](https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API/Tutorial)
+* [CreateJS and HTML5 Canvas: resize, fullscreen and liquid layouts](http://www.fabiobiondi.com/blog/2012/08/createjs-and-html5-canvas-resize-fullscreen-and-liquid-layouts/)
+
 
 #### Music Player
 * [HTML5 Music Player](http://tutorialzine.com/2015/03/html5-music-player/)
