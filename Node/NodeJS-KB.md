@@ -3,12 +3,11 @@ By node.js authors (https://nodejs.org/about/resources/) [Public domain], via Wi
 
 ## Node JS Knowledge Base
 
-* [Node JS(Official](https://nodejs.org/en/)
+* [Node JS(Official)](https://nodejs.org/en/)
 
 * [StrongLoop LoopBack](https://strongloop.com/node-js/loopback-framework/)
 
 * [Nodal JS (Nodal is a web server for Node.js, optimized for building API services quickly and efficiently)](http://www.nodaljs.com/)
-* []()
 * []()
 
 
