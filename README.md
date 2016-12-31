@@ -30,7 +30,7 @@ ___
 
 ## Technology Trends You should learn
 
-## [2017, Languages and Frameworks you should learn](Trending-Tech/Trending-Tech-2017.md)
+## [2017](Trending-Tech/Trending-Tech-2017-KB.md)
 ___
 
 ## [IoT](IoT/IoT-KB.md)

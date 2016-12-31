@@ -1,4 +1,4 @@
-# ![NodeJS](res/nodejs-new-pantone-black.pdf)
+# ![NodeJS](https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg)
 By node.js authors (https://nodejs.org/about/resources/) [Public domain], via Wikimedia Commons
 
 ## Node JS Knowledge Base

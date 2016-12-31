@@ -1,5 +1,9 @@
 ## Trending Tech Knowledge Base 2017
 
+Title | Author | Version | Group | Sub-Levels
+--- | --- | --- | --- | ---
+*Trending Tech Knowledge Base  Page* | dtro-devuk | 1.0 | Root | **0**
+
 Languages and Frameworks you should learn!
 
 * [Language Frameworks and Tools for 2017](http://tutorialzine.com/2016/12/the-languages-frameworks-tools-you-should-learn-in-2017/)
