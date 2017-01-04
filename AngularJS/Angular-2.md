@@ -46,6 +46,7 @@ Title | Author | Version | Group | Sub-Levels
 ##### Bootstrap 4 
 * [ng-Bootsrap (4)](https://ng-bootstrap.github.io/#/getting-started)
 * [How to use bootstrap 4 in angular 2?](http://stackoverflow.com/questions/38534276/how-to-use-bootstrap-4-in-angular-2)
+* [The way to sue bootstrap 4 from npm including tether](https://forums.meteor.com/t/the-way-to-use-bootstrap-4-from-npm-including-js-and-tether/23159)
 
 #### Key Concepts
 * [Thinking in Angular 2 -  an overview of concepts for JavaScript developers on youtube](https://youtu.be/XlqoPpLMdwY)
