@@ -42,7 +42,10 @@ Title | Author | Version | Group | Sub-Levels
 * [Modern JavaScript](http://courses.angularclass.com/courses/modern-javascript/lectures/1223877)
 
 #### Styling
+
+##### Bootstrap 4 
 * [ng-Bootsrap (4)](https://ng-bootstrap.github.io/#/getting-started)
+* [How to use bootstrap 4 in angular 2?](http://stackoverflow.com/questions/38534276/how-to-use-bootstrap-4-in-angular-2)
 
 #### Key Concepts
 * [Thinking in Angular 2 -  an overview of concepts for JavaScript developers on youtube](https://youtu.be/XlqoPpLMdwY)
@@ -58,6 +61,10 @@ Title | Author | Version | Group | Sub-Levels
 
 #### Angular 2 Modules
 * [Quick Start Tutorial on youtube](https://youtu.be/L0XXoPqSphs)
+
+##### Errors
+* [Error in AppModule is Not an NgModule](https://github.com/angular/angular-cli/issues/3157)
+
 
 #### Components
 * [Flattening Deep Heirarchies of Components](http://blog.rangle.io/flattening-deep-hierarchies-of-components/)
