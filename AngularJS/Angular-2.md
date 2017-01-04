@@ -41,6 +41,9 @@ Title | Author | Version | Group | Sub-Levels
 * [Angular 2 Fundamentals](http://courses.angularclass.com/courses/enrolled/angular-2-fundamentals)
 * [Modern JavaScript](http://courses.angularclass.com/courses/modern-javascript/lectures/1223877)
 
+#### Styling
+* [ng-Bootsrap (4)](https://ng-bootstrap.github.io/#/getting-started)
+
 #### Key Concepts
 * [Thinking in Angular 2 -  an overview of concepts for JavaScript developers on youtube](https://youtu.be/XlqoPpLMdwY)
 * [Getting Started in Angular 2](https://html5hive.org/getting-started-with-angular-2/)
