@@ -93,6 +93,8 @@ Title | Author | Version | Group | Sub-Levels
 
 * [The Ultimate Guide to Forms in Angular 2 (ng-book)](http://blog.ng-book.com/the-ultimate-guide-to-forms-in-angular-2/)
 
+* [Building Tesla's battery range calculator with Angular 2 reactive forms](https://toddmotto.com/building-tesla-range-calculator-angular-2-reactive-forms)
+
 ##### Custom Form Controls
 
 * [Custom Form Controls in Angular by thoughtram](http://blog.thoughtram.io/angular/2016/07/27/custom-form-controls-in-angular-2.html)
