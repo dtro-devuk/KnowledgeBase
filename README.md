@@ -12,6 +12,16 @@ Title | Author | Version | Group | Sub-Levels
 
 ___
 
+## Technical Tests
+
+### IKM
+* [Top tips when taking an IKM test](http://www.bluespoint.net/top-tips-when-taking-an-ikm-test/)
+* [C# Interview Questions Based on Actual Experiences When I Was Looking for a Job](http://avinashsing.sunkur.com/2015/02/16/c-interview-questions-based-on-actual-experiences-when-i-was-looking-for-a-job/)
+
+### C#
+* [.Net Interview Questions varied](http://challagullainfo.blogspot.co.uk/2011/01/net-interview-quations.html)
+___
+
 ## Gaming
 
 * [Witcher 3 - Alternative Endings](https://www.vg247.com/2015/12/22/the-witcher-3-how-to-get-the-best-ending/)

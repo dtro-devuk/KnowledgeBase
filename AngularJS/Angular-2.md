@@ -60,12 +60,43 @@ Title | Author | Version | Group | Sub-Levels
 * [Angular 2 Login Seed](https://github.com/domfarolino/angular2-login-seed)
 * [Angular2-dashboard-starter](https://www.npmjs.com/package/angular2-dashboard-starter)
 
+#### Angular CLI
+* [Angular CLI](https://cli.angular.io/)
+* [Angular CLI (GitHub)](https://github.com/angular/angular-cli)
+
+##### SASS
+* [Angular CLI SASS options (stackoverflow)](http://stackoverflow.com/questions/36220256/angular2-angular-cli-sass-options)
+* [How to include SASS in components](https://github.com/AngularClass/angular2-webpack-starter/wiki/How-to-include-SCSS-in-components)
+* [Compiling SASS and PostCSS with Angular CLI](https://www.codementor.io/stevebelovarich/tutorials/compiling-sass-postcss-with-angular-cli-du107x931)
+* [Router Transitions](https://medium.com/google-developer-experts/angular-2-animate-router-transitions-6de179e00204#.ost67oz7k)
+* [Router Animations](https://embed.plnkr.co/PcRpcGK2duGw0HdaGaF5/?show=preview)
+
+#### Animations
+* [Intro to Animations](https://alligator.io/angular/animation-angular/)
+* [Animation Tutorials](https://coursetro.com/posts/code/25/Understanding-Angular-2-Animations-Tutorial)
+* [Collapse Demo, custom animations into seperate files](https://github.com/FuelInteractive/fuel-ui/tree/master/src/animations)
+* [Can you move your animations to an external file in Angular2? (stackoverflow)](http://stackoverflow.com/questions/40375258/can-you-move-your-animations-to-an-external-file-in-angular2)
+* [Reusable Animations (stackoverlow)](http://stackoverflow.com/questions/39463360/how-do-you-create-reusable-animations-in-angular-2)
+* [Angular 2 - pass delay to component animation as input parameter (stackoverflow)](http://stackoverflow.com/questions/40145581/angular-2-pass-delay-to-component-animation-as-input-parameter)
+* [Sliding Navigation](http://blog.thecodecampus.de/angular-2-animate-creating-sliding-side-navigation/)
+
 #### Angular 2 Modules
 * [Quick Start Tutorial on youtube](https://youtu.be/L0XXoPqSphs)
+* [Getting to Know Angular 2’s Module: @NgModule](https://scotch.io/bar-talk/getting-to-know-angular-2s-module-ngmodule)
+* [Shared Modules](https://angular-2-training-book.rangle.io/handout/modules/shared-modules-di.html)
+* [Import multiple angular2 components via module (stackoverflow)](http://stackoverflow.com/questions/39572278/import-multiple-angular2-components-via-module)
+
+#### Barrels (Import Noise)
+* [Angular 2 Barrel definition](https://angular.io/docs/ts/latest/glossary.html#!#barrel)
+* [Angular2 / Material](http://tattoocoder.com/angular2-barrels/)
+* [Barrel - File Lazy Trap](http://www.allenhashkey.com/web-development/angular-2-barrel-file-lazy-trap/)
 
 ##### Errors
 * [Error in AppModule is Not an NgModule](https://github.com/angular/angular-cli/issues/3157)
+* [Can't bind to 'ngForIn' since it isn't a known native property (need to Import the ngBrowserModule)](http://stackoverflow.com/questions/34561168/angular2-exception-cant-bind-to-ngforin-since-it-isnt-a-known-native-proper)
 
+##### Typings (Atom)
+* [File not included in TypeScript compilation context](http://stackoverflow.com/questions/37844297/file-is-not-included-in-the-typescript-compilation-context)
 
 #### Components
 * [Flattening Deep Heirarchies of Components](http://blog.rangle.io/flattening-deep-hierarchies-of-components/)
@@ -162,7 +193,9 @@ Title | Author | Version | Group | Sub-Levels
 #### AoT Compilation & lazy Loading
 * [Angular 2 NgModule Intro - Ahead Of Time Compilation And Lazy Loading - Avoid Common Pitfalls](http://blog.angular-university.io/angular2-ngmodule/)
 
-
+#### Language Translations
+* [Simple Language Translation in Angular 2 (Part 1)](https://scotch.io/tutorials/simple-language-translation-in-angular-2-part-1)
+* [Simple Language Translation in Angular 2 (Part 2)](https://scotch.io/tutorials/simple-language-translation-in-angular-2-part-2)
 
 #### Dashboards
 * [Dashboard, uses Modules, Components, Lazy Loading, Routing and AOT Compilation (GitHub)](https://github.com/start-angular/SB-Admin-BS4-Angular-2)
