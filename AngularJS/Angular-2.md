@@ -109,6 +109,9 @@ Title | Author | Version | Group | Sub-Levels
 ##### Collapsible Components
 * [Collapsible Panel Component](http://blog.unshift.xyz/collapsable-panel-component-in-angular-2-and-angular-1-5/)
 
+##### Spotify
+* [Angular-Spotify npm](https://www.npmjs.com/package/angular2-spotify)
+
 ##### Drag and Drop Components
 
 * [Dragula - Official Angular2 wrapper](https://github.com/valor-software/ng2-dragula)
@@ -225,3 +228,6 @@ Title | Author | Version | Group | Sub-Levels
 * [Building Hacker News Component GitHub Code](https://github.com/hdjirdeh/angular2-hn)
 * [Revisting Realtime Angular 2](https://blog.pusher.com/revisiting-realtime-angular-2/)
 * [Angular 2 and instantiation of a camera stream with html 5 video](http://stackoverflow.com/questions/40131772/angular-2-and-instantiation-of-a-camera-stream-with-html-5-video)
+
+#### Awesome Demos
+* [Angular JS 4U](http://www.angularjs4u.com/category/angularjs2/)
