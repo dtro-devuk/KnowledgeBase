@@ -213,11 +213,14 @@ TypeError: Cannot set property 'stack' of undefined
 * [Best Practices to Level Up](https://blog.budacode.com/2016/06/27/angular-2-best-practises/)
 * [Optimizing Angular 2 Apps - Martin Probst(youtube)](https://www.youtube.com/watch?v=_VnV7R4Ncwc)
 
-#### AoT Compilation & lazy Loading
+#### AoT Compilation & Lazy Loading
 * [Angular 2 NgModule Intro - Ahead Of Time Compilation And Lazy Loading - Avoid Common Pitfalls](http://blog.angular-university.io/angular2-ngmodule/)
 * [Learn how to use Ahead-of-time compilation (angular.io)](https://angular.io/docs/ts/latest/cookbook/aot-compiler.html)
 * [The Angular 2 Compiler Tobias Bosch](https://www.youtube.com/watch?v=kW9cJsvcsGo)
 * [Configure AOT for Angular CLI](https://juristr.com/blog/2016/12/configure-aot-with-angular-cli/)
+* [angular2-lazy-load-example](https://github.com/daviddt/angular2-lazy-load-example)
+* [Angular 2 Router Crash Course - Build a Navigation Menu with Bootstrap 4](http://blog.angular-university.io/angular-2-router-nested-routes-and-nested-auxiliary-routes-build-a-menu-navigation-system/)
+* [Angular Router: Declarative Lazy Loading](https://vsavkin.com/angular-router-declarative-lazy-loading-7071d1f203ee#.d0y04bdsm)
 
 #### Language Translations
 * [Simple Language Translation in Angular 2 (Part 1)](https://scotch.io/tutorials/simple-language-translation-in-angular-2-part-1)
