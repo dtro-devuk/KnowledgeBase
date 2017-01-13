@@ -95,6 +95,25 @@ Title | Author | Version | Group | Sub-Levels
 * [Error in AppModule is Not an NgModule](https://github.com/angular/angular-cli/issues/3157)
 * [Can't bind to 'ngForIn' since it isn't a known native property (need to Import the ngBrowserModule)](http://stackoverflow.com/questions/34561168/angular2-exception-cant-bind-to-ngforin-since-it-isnt-a-known-native-proper)
 
+N.B. The following error occurs if there is any invalid HTML syntax, especially when Lazy Loading Module Components
+error_handler.js:50EXCEPTION: Uncaught (in promise): TypeError: Cannot set property 'stack' of undefined
+TypeError: Cannot set property 'stack' of undefined
+    at SyntaxError.set [as stack] (http://localhost:4200/vendor.bundle.js:62801:61)
+    at assignAll (http://localhost:4200/vendor.bundle.js:85404:29)
+    at SyntaxError.ZoneAwareError (http://localhost:4200/vendor.bundle.js:85475:16)
+    at SyntaxError.BaseError [as constructor] (http://localhost:4200/vendor.bundle.js:62763:16)
+    at new SyntaxError (http://localhost:4200/vendor.bundle.js:6070:16)
+    at DirectiveNormalizer.normalizeLoadedTemplate (http://localhost:4200/vendor.bundle.js:16708:19)
+    at DirectiveNormalizer.normalizeTemplateSync (http://localhost:4200/vendor.bundle.js:16685:21)
+    at DirectiveNormalizer.normalizeTemplate (http://localhost:4200/vendor.bundle.js:16662:43)
+    at CompileMetadataResolver._loadDirectiveMetadata (http://localhost:4200/vendor.bundle.js:17904:75)
+    at http://localhost:4200/vendor.bundle.js:18080:54
+    at Array.forEach (native)
+    at CompileMetadataResolver.loadNgModuleDirectiveAndPipeMetadata (http://localhost:4200/vendor.bundle.js:18079:41)
+    at http://localhost:4200/vendor.bundle.js:45391:58
+    at Array.forEach (native)
+    at JitCompiler._loadModules (http://localhost:4200/vendor.bundle.js:45390:43)
+
 ##### Typings (Atom)
 * [File not included in TypeScript compilation context](http://stackoverflow.com/questions/37844297/file-is-not-included-in-the-typescript-compilation-context)
 
@@ -192,9 +211,13 @@ Title | Author | Version | Group | Sub-Levels
 * [Building an Angular 2 Application for Production](http://blog.mgechev.com/2016/06/26/tree-shaking-angular2-production-build-rollup-javascript/)
 * [ANGULAR 2 BEST PRACTICES: CHANGE DETECTOR PERFORMANCE](https://www.lucidchart.com/techblog/2016/05/04/angular-2-best-practices-change-detector-performance/)
 * [Best Practices to Level Up](https://blog.budacode.com/2016/06/27/angular-2-best-practises/)
+* [Optimizing Angular 2 Apps - Martin Probst(youtube)](https://www.youtube.com/watch?v=_VnV7R4Ncwc)
 
 #### AoT Compilation & lazy Loading
 * [Angular 2 NgModule Intro - Ahead Of Time Compilation And Lazy Loading - Avoid Common Pitfalls](http://blog.angular-university.io/angular2-ngmodule/)
+* [Learn how to use Ahead-of-time compilation (angular.io)](https://angular.io/docs/ts/latest/cookbook/aot-compiler.html)
+* [The Angular 2 Compiler Tobias Bosch](https://www.youtube.com/watch?v=kW9cJsvcsGo)
+* [Configure AOT for Angular CLI](https://juristr.com/blog/2016/12/configure-aot-with-angular-cli/)
 
 #### Language Translations
 * [Simple Language Translation in Angular 2 (Part 1)](https://scotch.io/tutorials/simple-language-translation-in-angular-2-part-1)
@@ -218,6 +241,7 @@ Title | Author | Version | Group | Sub-Levels
 * [Admin Panel Framework - Github code](https://github.com/akveo/ng2-admin)
 
 #### Example Custom Components
+* [Responsive Components](http://stackoverflow.com/questions/38442091/how-to-do-responsive-components-in-angular2)
 * [Responsive Carousel](https://embed.plnkr.co/VKLszgqJtobyVruBj3Op/)
 * [Angular 2 SlideShow](https://github.com/marek1/angular-2-slide-show)
 * [Angular2 TypeScript Carousel](http://www.angulartypescript.com/angular-2-carousel/)

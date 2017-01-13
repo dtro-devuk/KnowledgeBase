@@ -109,6 +109,8 @@ Its built on top of the hugely popular Bootstrap framework, and exports clean an
 
 * [50 usefult tools for RWD](http://tutorialzine.com/2014/12/50-useful-libraries-resources-responsive-design/)
 * [50 Awesome Web resources for Developers](http://tutorialzine.com/2014/09/50-awesome-tools-and-resources-for-web-developers/)
+* [Creating a Mobile-First Responsive Web Design](https://www.html5rocks.com/en/mobile/responsivedesign/)
+* [Demo - Mobile First Nav](http://bradfrost.com/demo/mobile-first/#)
 
 ### HTML 5
 
