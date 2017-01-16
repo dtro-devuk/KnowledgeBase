@@ -41,6 +41,7 @@ Title | Author | Version | Group | Sub-Levels
 * [Angular 2 Fundamentals](http://courses.angularclass.com/courses/enrolled/angular-2-fundamentals)
 * [Modern JavaScript](http://courses.angularclass.com/courses/modern-javascript/lectures/1223877)
 * [Angular Step-by-step articles (by barbarian)](https://www.barbarianmeetscoding.com/blog/categories/angular2-step-by-step/)
+* [Github code for Step by Step above](https://github.com/Vintharas/angular2-step-by-step-04-routing)
 
 #### Styling
 
@@ -229,6 +230,7 @@ TypeError: Cannot set property 'stack' of undefined
 * [Optimizing Angular 2 Apps - Martin Probst(youtube)](https://www.youtube.com/watch?v=_VnV7R4Ncwc)
 
 #### AoT Compilation & Lazy Loading, Routing
+* [Angular 2 Router](https://vsavkin.com/angular-2-router-d9e30599f9ea#.l7qvh4m4c)
 * [Rangle.io Routing](https://angular-2-training-book.rangle.io/handout/routing/config.html)
 * [Updating Your Angular 2 App to Use the New Router: A Practical Guide](https://www.barbarianmeetscoding.com/blog/2016/07/07/updating-your-angular-2-app-to-use-the-new-router/)
 * [Angular 2 NgModule Intro - Ahead Of Time Compilation And Lazy Loading - Avoid Common Pitfalls](http://blog.angular-university.io/angular2-ngmodule/)
@@ -244,6 +246,20 @@ TypeError: Cannot set property 'stack' of undefined
 * [Angular 2 NgModule Intro - Ahead Of Time Compilation And Lazy Loading - Avoid Common Pitfalls](http://blog.angular-university.io/angular2-ngmodule/)
 * [Angular 2 Routing with Modules - plunker Adv Heroes](http://plnkr.co/edit/mXSjnUtN7CM6ZqtOicE2?p=preview)
 * [Angular 2 Routing with Modules - plunker Adv Heroes with Login](http://plnkr.co/edit/TU73YA7kD7ZMyD8wEsUd?p=preview)
+* [ANGULAR ROUTER: EMPTY PATHS, COMPONENTLESS ROUTES, AND REDIRECTS](http://vsavkin.tumblr.com/post/146722301646/angular-router-empty-paths-componentless-routes)
+* [ROUTING IN ANGULAR REVISITED](https://blog.thoughtram.io/angular/2016/06/14/routing-in-angular-2-revisited.html)
+
+
+##### Guards
+* [PROTECTING ROUTES USING GUARDS IN ANGULAR](https://blog.thoughtram.io/angular/2016/07/18/guards-in-angular-2.html)
+* [Guarded Routing Plunker](http://plnkr.co/edit/w1NCkGs0Tv5TjivYMdvt?p=preview)
+
+##### Preventing Name Collisions (Providers)
+* [Preventing Name Collisions](https://blog.thoughtram.io/angular/2016/05/23/opaque-tokens-in-angular-2.html)
+* [ANGULAR PROVIDERS USING MAP LITERALS](https://blog.thoughtram.io/angular/2016/05/13/angular-2-providers-using-map-literals.html)
+
+##### Fallback Routes
+* [ROUTING IN ANGULAR REVISITED](https://blog.thoughtram.io/angular/2016/06/14/routing-in-angular-2-revisited.html#demos)
 
 #### Language Translations
 * [Simple Language Translation in Angular 2 (Part 1)](https://scotch.io/tutorials/simple-language-translation-in-angular-2-part-1)
