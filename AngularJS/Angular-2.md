@@ -40,8 +40,21 @@ Title | Author | Version | Group | Sub-Levels
 * [Angular 2 TypeScript Tutorials](http://www.angulartypescript.com/angular-2-tutorial/)
 * [Angular 2 Fundamentals](http://courses.angularclass.com/courses/enrolled/angular-2-fundamentals)
 * [Modern JavaScript](http://courses.angularclass.com/courses/modern-javascript/lectures/1223877)
+* [Angular Step-by-step articles (by barbarian)](https://www.barbarianmeetscoding.com/blog/categories/angular2-step-by-step/)
 
 #### Styling
+
+##### CSS Encapsulation
+* [CSS Encapsulation with Angular Components](https://coryrylan.com/blog/css-encapsulation-with-angular-components)
+* [All the Ways to Add CSS to Angular 2 Components](https://scotch.io/tutorials/all-the-ways-to-add-css-to-angular-2-components)
+* [Plunker example of above](http://plnkr.co/edit/JYbmizTKUd29zfmmMmLc?p=preview)
+
+Shadow DOM helps encapsulation, and prevent leakage of CSS from a page into the content of a main document.
+Why keep code separate from the rest of the page?
+On large sites you want to prevent CSS styling to be carefully organised and not leak from say the navigation into the main content area, where its not 
+intended to go, and vice versa!
+
+* [Shadow DOM (provides encapsulation for DOM and CSS in a web component](https://developer.mozilla.org/en-US/docs/Web/Web_Components/Shadow_DOM)
 
 ##### Bootstrap 4 
 * [ng-Bootsrap (4)](https://ng-bootstrap.github.io/#/getting-started)
@@ -59,6 +72,7 @@ Title | Author | Version | Group | Sub-Levels
 * [Angular 2 Seed With WebPack Starter](https://github.com/AngularClass/angular2-webpack-starter)
 * [Angular 2 Login Seed](https://github.com/domfarolino/angular2-login-seed)
 * [Angular2-dashboard-starter](https://www.npmjs.com/package/angular2-dashboard-starter)
+* [ng-skeleton, the ultimate angular seed project](https://github.com/born2net/ng-skeleton)
 
 #### Angular CLI
 * [Angular CLI](https://cli.angular.io/)
@@ -85,6 +99,7 @@ Title | Author | Version | Group | Sub-Levels
 * [Getting to Know Angular 2’s Module: @NgModule](https://scotch.io/bar-talk/getting-to-know-angular-2s-module-ngmodule)
 * [Shared Modules](https://angular-2-training-book.rangle.io/handout/modules/shared-modules-di.html)
 * [Import multiple angular2 components via module (stackoverflow)](http://stackoverflow.com/questions/39572278/import-multiple-angular2-components-via-module)
+
 
 #### Barrels (Import Noise)
 * [Angular 2 Barrel definition](https://angular.io/docs/ts/latest/glossary.html#!#barrel)
@@ -213,7 +228,9 @@ TypeError: Cannot set property 'stack' of undefined
 * [Best Practices to Level Up](https://blog.budacode.com/2016/06/27/angular-2-best-practises/)
 * [Optimizing Angular 2 Apps - Martin Probst(youtube)](https://www.youtube.com/watch?v=_VnV7R4Ncwc)
 
-#### AoT Compilation & Lazy Loading
+#### AoT Compilation & Lazy Loading, Routing
+* [Rangle.io Routing](https://angular-2-training-book.rangle.io/handout/routing/config.html)
+* [Updating Your Angular 2 App to Use the New Router: A Practical Guide](https://www.barbarianmeetscoding.com/blog/2016/07/07/updating-your-angular-2-app-to-use-the-new-router/)
 * [Angular 2 NgModule Intro - Ahead Of Time Compilation And Lazy Loading - Avoid Common Pitfalls](http://blog.angular-university.io/angular2-ngmodule/)
 * [Learn how to use Ahead-of-time compilation (angular.io)](https://angular.io/docs/ts/latest/cookbook/aot-compiler.html)
 * [The Angular 2 Compiler Tobias Bosch](https://www.youtube.com/watch?v=kW9cJsvcsGo)
@@ -221,6 +238,12 @@ TypeError: Cannot set property 'stack' of undefined
 * [angular2-lazy-load-example](https://github.com/daviddt/angular2-lazy-load-example)
 * [Angular 2 Router Crash Course - Build a Navigation Menu with Bootstrap 4](http://blog.angular-university.io/angular-2-router-nested-routes-and-nested-auxiliary-routes-build-a-menu-navigation-system/)
 * [Angular Router: Declarative Lazy Loading](https://vsavkin.com/angular-router-declarative-lazy-loading-7071d1f203ee#.d0y04bdsm)
+* [Routing Angular 2 Applications : Lesson 15 of 23 (Scotch)](https://school.scotch.io/routing-angular-2-applications/lazy-loading)
+* [Routing Angular 2 Single Page Apps with the Component Router](https://scotch.io/tutorials/routing-angular-2-single-page-apps-with-the-component-router)
+* [Angular 2 Series - Part 4: Component Router In-Depth (Jan 2016)](https://auth0.com/blog/angular-2-series-part-4-component-router-in-depth/)
+* [Angular 2 NgModule Intro - Ahead Of Time Compilation And Lazy Loading - Avoid Common Pitfalls](http://blog.angular-university.io/angular2-ngmodule/)
+* [Angular 2 Routing with Modules - plunker Adv Heroes](http://plnkr.co/edit/mXSjnUtN7CM6ZqtOicE2?p=preview)
+* [Angular 2 Routing with Modules - plunker Adv Heroes with Login](http://plnkr.co/edit/TU73YA7kD7ZMyD8wEsUd?p=preview)
 
 #### Language Translations
 * [Simple Language Translation in Angular 2 (Part 1)](https://scotch.io/tutorials/simple-language-translation-in-angular-2-part-1)
@@ -235,6 +258,7 @@ TypeError: Cannot set property 'stack' of undefined
 
 
 #### Apps and Tutorials
+* [Angular kitchen sink](https://github.com/born2net/Angular-kitchen-sink)
 * [Angular JS Chat with Loopback](https://www.codetutorial.io/angularjs-chat-whit-socket-io-and-loopback/)
 * [MEAN Stack App on youtube] (https://youtu.be/tYkb2Qu4UmM)
 * [Build your Angular 2 App: From Auth to calling an API (Auth0.com)](https://auth0.com/blog/creating-your-first-real-world-angular-2-app-from-authentication-to-calling-an-api-and-everything-in-between/)
