@@ -230,7 +230,14 @@ TypeError: Cannot set property 'stack' of undefined
 * [Optimizing Angular 2 Apps - Martin Probst(youtube)](https://www.youtube.com/watch?v=_VnV7R4Ncwc)
 
 #### AoT Compilation & Lazy Loading, Routing
+
+#####DO NOT Name Lazy Loaded folders with a "+" prefix
+* [](http://stackoverflow.com/questions/38639895/how-to-generate-folder-with-lazy-loading-prefix-using-angular-cli)
+
 * [Angular 2 Router](https://vsavkin.com/angular-2-router-d9e30599f9ea#.l7qvh4m4c)
+* [Angular 2 Router 2](https://vsavkin.com/angular-2-router-d9e30599f9ea#.16rxy5j7y)
+* [Angular Router: Declarative Lazy Loading](https://vsavkin.com/angular-router-declarative-lazy-loading-7071d1f203ee#.qplbboaeg)
+* [Angular Router: Preloading Modules](https://vsavkin.com/angular-router-preloading-modules-ba3c75e424cb#.2g9g125un)
 * [Rangle.io Routing](https://angular-2-training-book.rangle.io/handout/routing/config.html)
 * [Updating Your Angular 2 App to Use the New Router: A Practical Guide](https://www.barbarianmeetscoding.com/blog/2016/07/07/updating-your-angular-2-app-to-use-the-new-router/)
 * [Angular 2 NgModule Intro - Ahead Of Time Compilation And Lazy Loading - Avoid Common Pitfalls](http://blog.angular-university.io/angular2-ngmodule/)
