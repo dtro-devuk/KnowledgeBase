@@ -110,6 +110,8 @@ intended to go, and vice versa!
 ##### Errors
 * [Error in AppModule is Not an NgModule](https://github.com/angular/angular-cli/issues/3157)
 * [Can't bind to 'ngForIn' since it isn't a known native property (need to Import the ngBrowserModule)](http://stackoverflow.com/questions/34561168/angular2-exception-cant-bind-to-ngforin-since-it-isnt-a-known-native-proper)
+* [Cannot set property 'stack' of undefined ](https://github.com/angular/angular-cli/issues/3975)
+* ['Uncaught TypeError: Cannot set property stack of [object Object] which has only a getter' with Angular](https://github.com/angular/zone.js/issues/427)
 
 N.B. The following error occurs if there is any invalid HTML syntax, especially when Lazy Loading Module Components
 error_handler.js:50EXCEPTION: Uncaught (in promise): TypeError: Cannot set property 'stack' of undefined
