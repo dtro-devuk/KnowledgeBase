@@ -12,6 +12,12 @@ Title | Author | Version | Group | Sub-Levels
 
 ___
 
+## GitHub
+
+* [Two-Factor Authentication (2FA) with GitHub in SourceTree
+](https://confluence.atlassian.com/sourcetreekb/two-factor-authentication-2fa-with-github-in-sourcetree-402033499.html)
+___
+
 ## Technical Tests
 
 ### IKM
