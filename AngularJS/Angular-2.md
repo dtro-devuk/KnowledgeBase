@@ -307,3 +307,23 @@ TypeError: Cannot set property 'stack' of undefined
 
 #### Awesome Demos
 * [Angular JS 4U](http://www.angularjs4u.com/category/angularjs2/)
+
+
+#### Visual Studio 2015 & Angular 2
+* [TypeScript Tools for VS 2015 2.1.5.0](https://www.microsoft.com/en-us/download/confirmation.aspx?id=48593)
+* [NPM Task Runner](https://marketplace.visualstudio.com/items?itemName=MadsKristensen.NPMTaskRunner)
+* [Angular 2 : Getting off the Starting Line](http://tattoocoder.com/angular-2-getting-off-the-starting-line/)
+* [How To: Visual Studio 2015 & Angular 2](http://tattoocoder.com/how-to-vs2015-angular2/)
+* [Developing And Deploying An Angular 2 Application With Visual Studio 2015](https://www.codeproject.com/Articles/1115444/Developing-And-Deploying-An-Angular-Application-Wi)
+* [Angular 2 (rc1) 5 Minute QuickStart using Angular Cli with ASP.NET 5 in Visual Studio 2015](https://github.com/JonCubed/angular2-cli-quick-start-aspnet-core-vs2015)
+* [Using BrowserSync with Visual Studio](http://shermandigital.com/blog/use-browsersync-with-visual-studio/)
+* [Angular 2 in ASP.NET Core 1.0 using Visual Studio Code and TypeScript](http://www.mithunvp.com/angular-2-asp-net-core-visual-studio-code-typescript/)
+* [Angular 2 in Visual Studio 2015](https://olepetterdahlmann.com/2016/08/17/angular-2-in-visual-studio-2015/)
+* [Angular Development with Visual Studio and Windows](https://coryrylan.com/blog/angular-development-with-visual-studio-and-windows)
+* [How to Use BrowserSync for Faster Development](https://scotch.io/tutorials/how-to-use-browsersync-for-faster-development)
+
+#### TypeScript and Visual Studio
+* [TypeScript](https://blogs.msdn.microsoft.com/typescript/2016/09/22/announcing-typescript-2-0/)
+* [TypeScript Typings](https://github.com/typings/typings)
+* [Keep getting “tsc.exe” exited with code 1](http://stackoverflow.com/questions/37350183/keep-getting-tsc-exe-exited-with-code-1)
+* []()
