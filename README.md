@@ -59,11 +59,9 @@ ___
 
 ## Micro Services
 
-### Azure - Service Fabric
-
 ## [Azure Service Fabric](MircoServices/Azure/ServiceFabric.md)
 
-##Modern Web Development
+## Modern Web Development
 
 ## [Angular 2](AngularJS/Angular-2.md)
 
