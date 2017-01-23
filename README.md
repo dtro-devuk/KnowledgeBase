@@ -6,7 +6,7 @@ Project Workflow using [ZenHub](https://www.zenhub.com/)
 
 Title | Author | Version | Group | Sub-Levels
 --- | --- | --- | --- | ---
-*Main Knowledge Base Page* | dtro-devuk | 1.0 | Root | **4**
+*Main Knowledge Base Page* | dtro-devuk | 1.0 | Root | **5**
 
 * [Also some useful posts from Tutorialzine](http://tutorialzine.com/posts/page/1/)
 
@@ -56,6 +56,12 @@ ___
 ___
 
 ## [IoT](IoT/IoT-KB.md)
+
+## Micro Services
+
+### Azure - Service Fabric
+
+## [Azure Service Fabric](MircoServices/Azure/ServiceFabric.md)
 
 ##Modern Web Development
 
@@ -194,6 +200,11 @@ Its built on top of the hugely popular Bootstrap framework, and exports clean an
 ### [Node JS](Node/NodeJS-KB.md)
 
 
+### Java
+* [Java 101: Learn Java from the ground up](http://www.javaworld.com/article/2076075/learn-java/core-java-learn-java-from-the-ground-up.html)
+
+### Android Development
+* [Android Development 1](https://www.youtube.com/watch?v=bJ_2_AQboc0&index=1&list=PLR1yrl-TQLtZL_WD6B9aW-ExWRRJHqTB9)
 
 
 ## Web Security
@@ -231,5 +242,4 @@ ___
 * [Dashing Demo](http://dashingdemo.herokuapp.com/sample)
 * [Dashing Demo sample TV](http://dashingdemo.herokuapp.com/sampletv)
 * [Dashing Dashboard Additional Widgets]()
-
 

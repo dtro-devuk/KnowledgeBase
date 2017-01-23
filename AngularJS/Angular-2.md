@@ -101,6 +101,9 @@ intended to go, and vice versa!
 * [Shared Modules](https://angular-2-training-book.rangle.io/handout/modules/shared-modules-di.html)
 * [Import multiple angular2 components via module (stackoverflow)](http://stackoverflow.com/questions/39572278/import-multiple-angular2-components-via-module)
 
+#### Angular 2 Material
+* [Angular 2 Material and Angular CLI](https://progblog.io/Angular-2-Tutorial-Create-an-App-With-Angular-CLI-and-Angular-Material-Design/)
+
 
 #### Barrels (Import Noise)
 * [Angular 2 Barrel definition](https://angular.io/docs/ts/latest/glossary.html#!#barrel)
@@ -148,6 +151,14 @@ TypeError: Cannot set property 'stack' of undefined
 
 ##### Spotify
 * [Angular-Spotify npm](https://www.npmjs.com/package/angular2-spotify)
+
+##### RSS Feed Service Component
+* [BeCompany News Reader Service](https://www.becompany.ch/en/blog/tech/2016/09/19/angular2-rss-reader.html)
+* [BeCompany News Readerer code GitHub](https://github.com/becompany/angular2-rss-reader-tutorial)
+* [Building Hacker News Service Component](https://houssein.me/angular2-hacker-news)
+
+##### Dynamically Injected Components
+* [Injecting components dynamically in Angular 2](https://medium.com/@tudorgergely/injecting-components-dynamically-in-angular-2-3d36594d49a0#.prn3zxcyv)
 
 ##### Drag and Drop Components
 
