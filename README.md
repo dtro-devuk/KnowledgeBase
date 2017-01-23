@@ -1,6 +1,6 @@
 # Knowledge Base
 
-A curated list of helpful material to start learning Modern Development Things :smile:
+A curated list of helpful material on Azure MicroServices :smile:
 
 Project Workflow using [ZenHub](https://www.zenhub.com/) 
 
