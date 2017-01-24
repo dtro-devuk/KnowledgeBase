@@ -1,3 +1,5 @@
+#  ![ServiceFabric](ServiceFabric.png)
+
 # Azure Service Fabric Knowledge Base
 
 A curated list of helpful material to start learning Modern Development Things :smile:
