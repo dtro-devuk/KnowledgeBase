@@ -8,6 +8,14 @@ Title | Author | Version | Group | Sub-Levels
 --- | --- | --- | --- | ---
 *Azure Service Fabric Knowledge base* | dtro-devuk | 1.0 | Root | **0**
 
+Azure Service Fabric is a Platform-as-a-Service offering, which promises us a way to build highly reliable, massively scalable cloud based services
+
+* Service Fabric comes in different flavours catering to different requirements. 
+* There are two APIs available to us, 
+1. Reliable Actors and 
+2. Reliable Service(s) API's, 
+* and the services we build can be either **stateful** or **stateless**.
+
 ### Intro
 
 * [Martin Fowler - MicroServices](https://martinfowler.com/articles/microservices.html)
@@ -27,12 +35,17 @@ Title | Author | Version | Group | Sub-Levels
 * [A Practical Overview of Actors](https://alexandrebrisebois.wordpress.com/2016/07/09/a-practical-overview-of-actors-in-service-fabric/)
 * [Getting to know actors](https://alexandrebrisebois.wordpress.com/2016/07/25/getting-to-know-actors-in-service-fabric/)
 
+## Swagger
+* [Swagger for Azure Service Fabric Stateless Web API application](http://stackoverflow.com/questions/40088573/swagger-for-azure-service-fabric-stateless-web-api-application)
 
 ### Tutorials
 
 #### Official
 * [Create your first Service Fabric App](https://docs.microsoft.com/en-us/azure/service-fabric/service-fabric-create-your-first-application-in-visual-studio)
+* [Sheepisly Startup app](https://blog.geist.no/azure-service-fabric-introduction-getting-it-running/)
 
+#### Completed
+* [Completed Voting Service](https://github.com/toddabel/Service-Fabric-Labs/tree/master/Lab%202/src)
 
 ### Official Sample Apps
 * [Service Fabric Getting Started Samples](https://azure.microsoft.com/en-gb/resources/samples/service-fabric-dotnet-getting-started/)
