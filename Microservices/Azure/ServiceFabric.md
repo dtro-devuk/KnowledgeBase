@@ -18,7 +18,7 @@ Azure Service Fabric is a Platform-as-a-Service offering, which promises us a wa
 
 ### Overview
 
-Advantages of Service Fabric and Microservices
+**Advantages of Service Fabric and Microservices**
 
 * **Create independently deployable microservices:** easier to deploy than n-tier architectures
 * **Autonomous experimental teams:** allows creation of nimble, teams that can deliver functionality quicker.
