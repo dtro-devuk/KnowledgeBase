@@ -26,14 +26,15 @@ Azure Service Fabric is a Platform-as-a-Service offering, which promises us a wa
 * [Overview of Azure Service Fabric](https://docs.microsoft.com/en-us/azure/service-fabric/service-fabric-overview)
 * [Cloud Design Patterns](https://msdn.microsoft.com/en-us/library/dn568099.aspx)
 
+#### Others
+* [Microservices based application on the Azure compute platform](https://articles.microservices.com/microservices-based-application-on-the-azure-compute-platform-ea6b12c28782#.r4zirxhxf)
+* [Service Fabric Customer Profile: TalkTalk TV](https://blogs.msdn.microsoft.com/azureservicefabric/2016/03/15/service-fabric-customer-profile-talktalk-tv/)
+
 ##### Actor Frameworks, Patterns etc
 * [Service Fabric Reliable Actors](https://docs.microsoft.com/en-us/azure/service-fabric/service-fabric-reliable-actors-introduction)
 
 #### Actor Model
 * [The Actor Model in 10 minutes(see the video, Hewitt, Meijer & Szyperski)](http://www.brianstorti.com/the-actor-model/)
-
-#### 3rd Party
-
 * [What is definition](http://whatis.techtarget.com/definition/Azure-Service-Fabric)
 * [A Practical Overview of Actors](https://alexandrebrisebois.wordpress.com/2016/07/09/a-practical-overview-of-actors-in-service-fabric/)
 * [Getting to know actors](https://alexandrebrisebois.wordpress.com/2016/07/25/getting-to-know-actors-in-service-fabric/)
