@@ -58,7 +58,7 @@ Taken from benefits to TalkTalk TV...
 * [A Practical Overview of Actors](https://alexandrebrisebois.wordpress.com/2016/07/09/a-practical-overview-of-actors-in-service-fabric/)
 * [Getting to know actors](https://alexandrebrisebois.wordpress.com/2016/07/25/getting-to-know-actors-in-service-fabric/)
 
-####Reliable Actors
+#### Reliable Actors
 
 * Actors are single-threaded objects capturing logic and state
 * All Actors considered stateful
@@ -73,6 +73,20 @@ Taken from benefits to TalkTalk TV...
 
 see:
 * [Reliable Actors state management](https://docs.microsoft.com/en-us/azure/service-fabric/service-fabric-reliable-actors-state-management)
+* [Notes on Service Fabric Reliable Actors type serialization](https://docs.microsoft.com/en-us/azure/service-fabric/service-fabric-reliable-actors-notes-on-actor-type-serialization)
+
+##### State Clears
+
+* By default, the state is persistent to disks (in addition to replication to 3 nodes), so it should survive the restarts.
+* Pressing F5 in Visual Studio, the default behavior is to delete your old application and deploy the current version as a new application. 
+* To maintain the state on your dev cluster, you can tick a checkbox in project properties to do upgrades instead of clean deployments.
+
+* You have the same options when deploying to Azure - deploy a new app (and lose the state) or deploy an upgrade to persist the state. 
+* The old and new versions of your state class should be compatible, they are based on DataContract to make it a bit easier.
+
+**NB. State Clears on Restart!!!
+* [When does Service Fabric restart/ clear state](http://stackoverflow.com/questions/35390664/when-does-service-fabric-restart-clear-state)
+
 
 ### Swagger
 * [Swagger for Azure Service Fabric Stateless Web API application](http://stackoverflow.com/questions/40088573/swagger-for-azure-service-fabric-stateless-web-api-application)
