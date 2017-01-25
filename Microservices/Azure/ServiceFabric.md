@@ -40,9 +40,11 @@ Taken from benefits to TalkTalk TV...
 * [Azure Service Fabric - Building MicroServices](https://azure.microsoft.com/en-in/services/service-fabric/)
 * [Overview of Azure Service Fabric](https://docs.microsoft.com/en-us/azure/service-fabric/service-fabric-overview)
 * [Cloud Design Patterns](https://msdn.microsoft.com/en-us/library/dn568099.aspx)
+* [Model an application in Service Fabric](https://docs.microsoft.com/en-us/azure/service-fabric/service-fabric-application-model)
 
 #### Others
 * [Microservices based application on the Azure compute platform](https://articles.microservices.com/microservices-based-application-on-the-azure-compute-platform-ea6b12c28782#.r4zirxhxf)
+* [Party Clusters](http://tryazureservicefabric.westus.cloudapp.azure.com/)
 
 #### Case Studies
 * [Service Fabric Customer Profile: **TalkTalk TV**](https://blogs.msdn.microsoft.com/azureservicefabric/2016/03/15/service-fabric-customer-profile-talktalk-tv/)
@@ -56,7 +58,7 @@ Taken from benefits to TalkTalk TV...
 * [A Practical Overview of Actors](https://alexandrebrisebois.wordpress.com/2016/07/09/a-practical-overview-of-actors-in-service-fabric/)
 * [Getting to know actors](https://alexandrebrisebois.wordpress.com/2016/07/25/getting-to-know-actors-in-service-fabric/)
 
-## Swagger
+### Swagger
 * [Swagger for Azure Service Fabric Stateless Web API application](http://stackoverflow.com/questions/40088573/swagger-for-azure-service-fabric-stateless-web-api-application)
 
 ### Tutorials
@@ -73,6 +75,21 @@ Taken from benefits to TalkTalk TV...
 * [Service Fabric Getting Started Samples](https://azure.microsoft.com/en-gb/resources/samples/service-fabric-dotnet-getting-started/)
 * [Azure Samples](https://github.com/Azure-Samples)
 * [WordCount WebService](https://github.com/Azure-Samples/service-fabric-dotnet-getting-started/tree/master/Services/WordCount/WordCount.WebService)
+
+### Deployment and Debugging
+* [Debug your Service Fabric application by using Visual Studio](https://docs.microsoft.com/en-us/azure/service-fabric/service-fabric-debugging-your-application)
+* [Introduction to the Fault Analysis Service, and Testing Distributed Systems](https://docs.microsoft.com/en-us/azure/service-fabric/service-fabric-testability-overview)
+* [Deploy and remove applications using PowerShell](https://docs.microsoft.com/en-us/azure/service-fabric/service-fabric-deploy-remove-applications)
+* [Monitor and diagnose services in a local machine development setup](https://docs.microsoft.com/en-us/azure/service-fabric/service-fabric-diagnostics-how-to-monitor-and-diagnose-services-locally)
+* [Service Fabric application upgrade](https://docs.microsoft.com/en-us/azure/service-fabric/service-fabric-application-upgrade)
+
+### Security
+* [Configure security policies for your application](https://docs.microsoft.com/en-us/azure/service-fabric/service-fabric-application-runas-security)
+
+### SFX (Service Fabric Explorer)
+* [Visualize your cluster with Service Fabric Explorer](https://docs.microsoft.com/en-us/azure/service-fabric/service-fabric-visualizing-your-cluster)
+* [Introduction to Service Fabric health monitoring](https://docs.microsoft.com/en-us/azure/service-fabric/service-fabric-health-introduction)
+* [Use system health reports to troubleshoot](https://docs.microsoft.com/en-us/azure/service-fabric/service-fabric-understand-and-troubleshoot-with-system-health-reports)
 
 ### Azure Symbols
 * [Microsoft has Released a Set of Symbols/Icons to Visually Represent Azure Solutions](https://alexandrebrisebois.wordpress.com/2014/02/19/microsoft-has-released-a-set-of-symbolsicons-to-visually-represent-windows-azure-solutions/)
