@@ -35,6 +35,7 @@ Taken from benefits to TalkTalk TV...
 
 * [Martin Fowler - MicroServices](https://martinfowler.com/articles/microservices.html)
 
+* [Service Fabric Patterns and Practices (Learning Plan)](https://mva.microsoft.com/en-US/training-courses/service-fabric-patterns-and-practices-16925?l=mudwqISGD_6005167344)
 * [Service Fabric Patterns and Scenarios](https://docs.microsoft.com/en-us/azure/service-fabric/service-fabric-patterns-and-scenarios)
 
 #### Official
