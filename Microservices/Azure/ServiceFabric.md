@@ -16,6 +16,21 @@ Azure Service Fabric is a Platform-as-a-Service offering, which promises us a wa
 2. Reliable Service(s) API's, 
 * and the services we build can be either **stateful** or **stateless**.
 
+### Overview
+
+Advantages of Service Fabric and Microservices
+
+* **Create independently deployable microservices:** easier to deploy than n-tier architectures
+* **Autonomous experimental teams:** allows creation of nimble, teams that can deliver functionality quicker.
+* **Leverage a cloud platform:** minimize writing plumbing code, and maximize feature development, allowing the teams to ship more customer features.
+
+
+Taken from benefits to TalkTalk TV...
+
+* **Agility:** Rolling upgrades, granular versioning, packaging and deployment to achieve faster delivery cycles and maintain uptime during upgrades.
+* **Development environment and programming models:** Developers able to build and run the solutions locally using the Service Fabric SDK using a combination of the reliable actors and reliable services programming models.
+* **Scalability:** The granularity of service scaling and versioning enables the system to scale as the number of users, devices, and content grows.
+
 ### Intro
 
 * [Martin Fowler - MicroServices](https://martinfowler.com/articles/microservices.html)
@@ -28,7 +43,9 @@ Azure Service Fabric is a Platform-as-a-Service offering, which promises us a wa
 
 #### Others
 * [Microservices based application on the Azure compute platform](https://articles.microservices.com/microservices-based-application-on-the-azure-compute-platform-ea6b12c28782#.r4zirxhxf)
-* [Service Fabric Customer Profile: TalkTalk TV](https://blogs.msdn.microsoft.com/azureservicefabric/2016/03/15/service-fabric-customer-profile-talktalk-tv/)
+
+#### Case Studies
+* [Service Fabric Customer Profile: **TalkTalk TV**](https://blogs.msdn.microsoft.com/azureservicefabric/2016/03/15/service-fabric-customer-profile-talktalk-tv/)
 
 ##### Actor Frameworks, Patterns etc
 * [Service Fabric Reliable Actors](https://docs.microsoft.com/en-us/azure/service-fabric/service-fabric-reliable-actors-introduction)
