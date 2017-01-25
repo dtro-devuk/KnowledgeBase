@@ -58,6 +58,22 @@ Taken from benefits to TalkTalk TV...
 * [A Practical Overview of Actors](https://alexandrebrisebois.wordpress.com/2016/07/09/a-practical-overview-of-actors-in-service-fabric/)
 * [Getting to know actors](https://alexandrebrisebois.wordpress.com/2016/07/25/getting-to-know-actors-in-service-fabric/)
 
+####Reliable Actors
+
+* Actors are single-threaded objects capturing logic and state
+* All Actors considered stateful
+* Each maps a unique ID (repeated calls to same ID routed to same instance)
+* Can maintain state reliably using persistence and replication (after failures, outages, reactivation, garbage collection) or when moved around nodes, depends on how state is persisted:
+1. Persisted State (to disk and up to 3+ replicas, most durable and handles complete outage)
+2. Volatile State (kept only in  memory and replicated to 3+ replicas (not disk so if all replicas lose then state is lost)
+3. No persisted state (not replicated or written to disk)
+* Each one simply a configuration for the Reliable Stateful Service, whether written depends on the state provider and replica count.
+* Set via an attribute on the Actor
+* State objects requested asynchronously directly from memory and cached on first call
+
+see:
+* [Reliable Actors state management](https://docs.microsoft.com/en-us/azure/service-fabric/service-fabric-reliable-actors-state-management)
+
 ### Swagger
 * [Swagger for Azure Service Fabric Stateless Web API application](http://stackoverflow.com/questions/40088573/swagger-for-azure-service-fabric-stateless-web-api-application)
 
