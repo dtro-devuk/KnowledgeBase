@@ -29,6 +29,9 @@ Azure Service Fabric is a Platform-as-a-Service offering, which promises us a wa
 ##### Actor Frameworks, Patterns etc
 * [Service Fabric Reliable Actors](https://docs.microsoft.com/en-us/azure/service-fabric/service-fabric-reliable-actors-introduction)
 
+#### Actor Model
+* [The Actor Model in 10 minutes(see the video, Hewitt, Meijer & Szyperski)](http://www.brianstorti.com/the-actor-model/)
+
 #### 3rd Party
 
 * [What is definition](http://whatis.techtarget.com/definition/Azure-Service-Fabric)
@@ -42,6 +45,7 @@ Azure Service Fabric is a Platform-as-a-Service offering, which promises us a wa
 
 #### Official
 * [Create your first Service Fabric App](https://docs.microsoft.com/en-us/azure/service-fabric/service-fabric-create-your-first-application-in-visual-studio)
+* [Get started with deploying and upgrading applications on your local cluster](https://docs.microsoft.com/en-us/azure/service-fabric/service-fabric-get-started-with-a-local-cluster)
 * [Sheepisly Startup app](https://blog.geist.no/azure-service-fabric-introduction-getting-it-running/)
 
 #### Completed
