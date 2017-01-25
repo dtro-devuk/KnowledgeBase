@@ -35,6 +35,8 @@ Taken from benefits to TalkTalk TV...
 
 * [Martin Fowler - MicroServices](https://martinfowler.com/articles/microservices.html)
 
+* [Service Fabric Patterns and Scenarios](https://docs.microsoft.com/en-us/azure/service-fabric/service-fabric-patterns-and-scenarios)
+
 #### Official
 
 * [Azure Service Fabric - Building MicroServices](https://azure.microsoft.com/en-in/services/service-fabric/)
