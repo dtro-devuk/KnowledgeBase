@@ -126,3 +126,29 @@ see:
 
 ### Azure Symbols
 * [Microsoft has Released a Set of Symbols/Icons to Visually Represent Azure Solutions](https://alexandrebrisebois.wordpress.com/2014/02/19/microsoft-has-released-a-set-of-symbolsicons-to-visually-represent-windows-azure-solutions/)
+
+### Moving Clusters and Size
+Local clusters begin eating up your SD drive, so you can tweak config and locations of data and logs using the notes below:
+
+* [How can I specify where my local developer's service fabric cluster is created?](http://stackoverflow.com/questions/34959643/how-can-i-specify-where-my-local-developers-service-fabric-cluster-is-created)
+* [Service Fabric SDK 2.2.207 how to change data and log paths?](http://stackoverflow.com/questions/39540141/service-fabric-sdk-2-2-207-how-to-change-data-and-log-paths)
+* [SfDevCluster Directory Getting Huge](https://social.msdn.microsoft.com/Forums/en-US/e501b9cf-e750-48c5-b342-4cd3bc19c5fc/sfdevcluster-directory-getting-huge?forum=AzureServiceFabric)
+* [Service Fabric logs consuming all available disk space](http://stackoverflow.com/questions/39862762/service-fabric-logs-consuming-all-available-disk-space)
+* [Sparse Files](https://msdn.microsoft.com/en-us/library/windows/desktop/aa365564(v=vs.85).aspx)
+
+#### Clusters stored here by default:
+* C:\SfDevCluster
+* \data
+* \log
+
+#### Command to run to change clusters
+.\DevClusterSetup.ps1 -PathToClusterDataRoot <desired_app_and_data_location> -PathToClusterLogRoot <desired_tracelog_location>
+
+.\DevClusterSetup.ps1 -PathToClusterDataRoot d:\SfDevCluster\data -PathToClusterLogRoot d:\SfDevCluster\log
+
+#### Steps to move clusters:
+
+1. Open MS Powershell as Administrator
+2. Eleveate permissions: Set-ExecutionPolicy -ExecutionPolicy Unrestricted -Force -Scope CurrentUser
+3. Navigate to ClusterSetup folder: cd "C:\Program Files\Microsoft SDKs\Service Fabric\ClusterSetup"
+4. Run command to move partitions to d drive: .\DevClusterSetup.ps1 -PathToClusterDataRoot d:\SfDevCluster\data -PathToClusterLogRoot d:\SfDevCluster\log

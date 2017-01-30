@@ -135,8 +135,9 @@ TypeError: Cannot set property 'stack' of undefined
     at Array.forEach (native)
     at JitCompiler._loadModules (http://localhost:4200/vendor.bundle.js:45390:43)
 
-##### Typings (Atom)
+##### Typings (Atom Jasmine Tests etc)
 * [File not included in TypeScript compilation context](http://stackoverflow.com/questions/37844297/file-is-not-included-in-the-typescript-compilation-context)
+* [Angular 2 Unit Tests: Cannot find name 'describe'](http://stackoverflow.com/questions/39020022/angular-2-unit-tests-cannot-find-name-describe)
 
 #### Components
 * [Flattening Deep Heirarchies of Components](http://blog.rangle.io/flattening-deep-hierarchies-of-components/)
@@ -159,6 +160,10 @@ TypeError: Cannot set property 'stack' of undefined
 
 ##### Dynamically Injected Components
 * [Injecting components dynamically in Angular 2](https://medium.com/@tudorgergely/injecting-components-dynamically-in-angular-2-3d36594d49a0#.prn3zxcyv)
+* [Rangle.io Dynamic Components](http://blog.rangle.io/dynamically-creating-components-with-angular-2/)
+* [Injecting components dynamically in Angular 2 ](https://medium.com/@tudorgergely/injecting-components-dynamically-in-angular-2-3d36594d49a0#.irwq324yl)
+* [Engineering Game Development - ANGULAR 2 – DYNAMICALLY INJECTING COMPONENTS](https://engineering-game-dev.com/2016/08/19/angular-2-dynamically-injecting-components/)
+* [Dynamically create/inject component into specific element inside *ngFor loop](http://stackoverflow.com/questions/39494551/angular-2-dynamically-create-inject-component-into-specific-element-inside-ng)
 
 ##### Drag and Drop Components
 

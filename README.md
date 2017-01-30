@@ -63,6 +63,11 @@ ___
 
 ## Modern Web Development
 
+### Useful Web Performance Monitors
+
+* [Lighthouse,  analyzes web apps and web pages, collecting modern performance metrics and insights on developer best practices.](https://github.com/GoogleChrome/lighthouse)
+* [Lighthouse Report Viewer](http://googlechrome.github.io/lighthouse/viewer/)
+
 ## [Angular 2](AngularJS/Angular-2.md)
 
 ### Cascading Style Sheets
@@ -241,3 +246,8 @@ ___
 * [Dashing Demo sample TV](http://dashingdemo.herokuapp.com/sampletv)
 * [Dashing Dashboard Additional Widgets]()
 
+
+#### Weather APIs
+http://api.accuweather.com/ 
+http://www.wunderground.com/weather/api/d/pricing.html 
+https://developer.forecast.io/
