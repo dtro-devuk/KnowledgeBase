@@ -68,6 +68,8 @@ ___
 * [Lighthouse,  analyzes web apps and web pages, collecting modern performance metrics and insights on developer best practices.](https://github.com/GoogleChrome/lighthouse)
 * [Lighthouse Report Viewer](http://googlechrome.github.io/lighthouse/viewer/)
 
+## [Angular 1](AngularJS/Angular-1.md)
+
 ## [Angular 2](AngularJS/Angular-2.md)
 
 ### Cascading Style Sheets
