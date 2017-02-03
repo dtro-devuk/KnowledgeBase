@@ -1,6 +1,6 @@
 # Knowledge Base
 
-A curated list of helpful material on Azure MicroServices :smile:
+A curated list of helpful material on some of my Development Stack :smile:
 
 Project Workflow using [ZenHub](https://www.zenhub.com/) 
 
@@ -59,7 +59,15 @@ ___
 
 ## MicroServices
 
-## [Azure Service Fabric](Microservices/Azure/ServiceFabric.md)
+## [Actor Framework - Azure Service Fabric](Microservices/Azure/ServiceFabric.md)
+
+## Cloud
+
+### Azure
+
+#### Redis Cache
+* [Single Page Todo App with Cache Manager](http://cachemanager.net/Documentation/Index/cachemanager_backed_todo_web_app#using-cache-manager-to-scale)
+* [EARN, Express, Angular, Redis, NodeJs Stack](https://www.airpair.com/express/posts/earn-stack)
 
 ## Modern Web Development
 
