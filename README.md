@@ -112,6 +112,11 @@ Bootstrap 4 to come out in 2017?
 * [Bootstrap Tutorial Derek Bananas (youtube)](https://www.youtube.com/watch?v=gqOEoUR5RHg)
 * [Elegant Bootstrap Forms](http://tutorialzine.com/2016/11/freebie-3-elegant-bootstrap-forms/)
 * [Bootstrap 4 Regular grid vs Flex Grid](http://tutorialzine.com/2016/11/boostrap-4-regular-vs-flex-grid/)
+* [Bootsrap 3 Tutorial Republic](http://www.tutorialrepublic.com/twitter-bootstrap-tutorial/bootstrap-get-started.php)
+* [Download Bootsrap](http://getbootstrap.com/getting-started/)
+* [Bootsrap requires JQuery](https://jquery.com/download/)
+* [Building Responsive WebSites using Twitter Bootstrap](https://www.sitepoint.com/building-responsive-websites-using-twitter-bootstrap/)
+* [Twitter Bootstrap - Handling Complex Designs](https://www.sitepoint.com/twitter-bootstrap-tutorial-handling-complex-designs/)
 
 #### Freebies
 * [Bootstrap Freebies](https://mdbootstrap.com/freebies/)
@@ -126,7 +131,7 @@ Its built on top of the hugely popular Bootstrap framework, and exports clean an
 * [How to make a web site in Bootstrap Studio (youtube)](https://www.youtube.com/watch?v=YAEALKYT3bM)
 * [12 Videos by NightShooter (youtube)](https://www.youtube.com/watch?v=bhqQQXgPMiw&list=PLV0iSHLFgTw5_ou76sDkQ3gJUTaKx8ufz)
 * [Creating a Website with Bootstrap Studio (youtube)](https://www.youtube.com/watch?v=10SwsoYNkVc)
-* [Lear the Bootstrap Grid in 15 minutes](http://tutorialzine.com/2015/10/learn-the-bootstrap-grid-in-15-minutes/)
+* [Learn the Bootstrap Grid in 15 minutes](http://tutorialzine.com/2015/10/learn-the-bootstrap-grid-in-15-minutes/)
 
 #### Templates, Freebies etc
 
@@ -261,3 +266,11 @@ ___
 http://api.accuweather.com/ 
 http://www.wunderground.com/weather/api/d/pricing.html 
 https://developer.forecast.io/
+
+## SonarQube
+* [Continuous Code Quality](https://www.sonarqube.org/)
+* [...SonarQube.com](https://sonarqube.com/about)
+* [Get Started in Two Minutes](https://docs.sonarqube.org/display/SONAR/Get+Started+in+Two+Minutes)
+* [](https://docs.sonarqube.org/display/PLUG/SonarJS)
+* [](https://docs.sonarqube.org/display/SCAN/Analyzing+with+SonarQube+Scanner)
+
