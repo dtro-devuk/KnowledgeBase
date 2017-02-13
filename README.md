@@ -154,6 +154,16 @@ Its built on top of the hugely popular Bootstrap framework, and exports clean an
 * [Mozilla Canavas Tutorials](https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API/Tutorial)
 * [CreateJS and HTML5 Canvas: resize, fullscreen and liquid layouts](http://www.fabiobiondi.com/blog/2012/08/createjs-and-html5-canvas-resize-fullscreen-and-liquid-layouts/)
 
+##### Pixi JS HTML 5 Creation Engine (2D JavaScript render)
+* [PixiJS](http://www.pixijs.com/)
+* [PIXI JS ](https://github.com/pixijs/pixi.js?utm_source=html5weekly)
+* [PixiJS Tutorials](http://www.pixijs.com/tutorials)
+* [Learning PIXI](https://github.com/kittykatattack/learningPixi)
+* [Parallax Scroller](https://github.com/ccaleb/pixi-parallax-scroller)
+* [HTML 5 Game Developers - Pixi has landed](http://www.html5gamedevs.com/topic/59-pixijs-has-landed/)
+
+##### 3JS 
+* [3 JX experiments](https://github.com/ccaleb/threejs-experiments/tree/master/tunnel-1)
 
 #### Music Player
 * [HTML5 Music Player](http://tutorialzine.com/2015/03/html5-music-player/)

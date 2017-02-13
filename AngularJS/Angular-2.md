@@ -324,6 +324,9 @@ TypeError: Cannot set property 'stack' of undefined
 #### Awesome Demos
 * [Angular JS 4U](http://www.angularjs4u.com/category/angularjs2/)
 
+#### Including 3rd Party Languages
+* [Include External JavaScript Libraries In An Angular 2 TypeScript Project](https://www.thepolyglotdeveloper.com/2016/01/include-external-javascript-libraries-in-an-angular-2-typescript-project/)
+* [How to use third-party javascript library (pixijs)](http://stackoverflow.com/questions/36895425/how-to-use-third-party-javascript-library-pixijs-in-ionic-2)
 
 #### Visual Studio 2015 & Angular 2
 * [TypeScript Tools for VS 2015 2.1.5.0](https://www.microsoft.com/en-us/download/confirmation.aspx?id=48593)
