@@ -284,3 +284,6 @@ https://developer.forecast.io/
 * [](https://docs.sonarqube.org/display/PLUG/SonarJS)
 * [](https://docs.sonarqube.org/display/SCAN/Analyzing+with+SonarQube+Scanner)
 
+## Autonomous Teams (Sqauds, Teams, Chapters)
+* [Spotify Engineering Part-1](https://vimeo.com/85490944)
+* [Spotify Engineering Part-2](https://vimeo.com/94950270)
