@@ -60,7 +60,7 @@ ___
 
 ## .NET CORE Development
 
-## [SignalR](NETCORE/Blazor/Blazor.md)
+## [Blazor](NETCORE/Blazor/Blazor.md)
 ## [SignalR](NETCORE/SignalR/SignalR.md)
 ## [Xamarin](NETCORE/Xamarin/Xamarin.md)
 
