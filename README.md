@@ -57,6 +57,7 @@ ___
 ## [2017](Trending-Tech/Trending-Tech-2017-KB.md)
 ___
 
+
 ## .NET CORE Development
 
 ## [SignalR](.NET CORE/SignalR/SignalR.md)
