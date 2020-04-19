@@ -52,7 +52,15 @@ ___
 
 ## Technology Trends You should learn
 
+## [2020](https://learntocodewith.me/posts/tech-skills-in-demand/)
+
 ## [2017](Trending-Tech/Trending-Tech-2017-KB.md)
+___
+
+.NET CORE Development
+
+## [SignalR](.NET CORE/SignalR/SignalR.md)
+
 ___
 
 ## [IoT](IoT/IoT-KB.md)
