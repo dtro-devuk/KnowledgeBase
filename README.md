@@ -41,7 +41,7 @@ ___
 ___
 
 ## Gadgets
-* [Babel Fish-like Ear-Peice - Tramslates](http://www.dailymail.co.uk/sciencetech/article-3592753/Don-t-panic-250-Babelfish-like-gadget-fits-inside-ear-translate-foreign-languages-real-time.html)
+* [Babel Fish-like Ear-Piece - Tramslates](http://www.dailymail.co.uk/sciencetech/article-3592753/Don-t-panic-250-Babelfish-like-gadget-fits-inside-ear-translate-foreign-languages-real-time.html)
 ___
 
 ## Chrome Extensions for Developers
@@ -57,7 +57,7 @@ ___
 ## [2017](Trending-Tech/Trending-Tech-2017-KB.md)
 ___
 
-.NET CORE Development
+## .NET CORE Development
 
 ## [SignalR](.NET CORE/SignalR/SignalR.md)
 
