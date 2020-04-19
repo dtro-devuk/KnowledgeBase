@@ -1,4 +1,4 @@
-# ![Xamarin](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRAAYVs_gGRkjid095vaWSAWl8CavyjB49wo6cWXrzqdvgr-P45&s)
+# ![Xamarin](https://www.google.com/url?sa=i&url=https%3A%2F%2Fdocs.microsoft.com%2Fen-us%2Fxamarin%2F&psig=AOvVaw12n-ek4wa5LHKxfEhbpXfx&ust=1587385816718000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCLj_w5u_9OgCFQAAAAAdAAAAABAD)
 
 ### Xamarin Knowledgbase April 2020
 
