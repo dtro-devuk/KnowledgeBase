@@ -15,8 +15,9 @@ Title | Author | Version | Group | Sub-Levels
 Categories |
 --- | 
 [React JSX](JavaScript-Frameworks/React-JSX/ReactJSX.md) |
-[React JS](JavaScript-Frameworks/React-JS/ReactJS.md) |
-[React Native](JavaScript-Frameworks/React-Native.ReactNative.md) |
+[React JS](JavaScript-Frameworks/React-JS/ReactTypescript.md) |
+[React JS & Typescript](JavaScript-Frameworks/React-JS/ReactJS.md) |
+[React Native](JavaScript-Frameworks/React-Native/ReactNative.md) |
 [Angular 1++](JavaScript-Frameworks/AngularJS/Angular-1.md) |
 [Angular 2](JavaScript-Frameworks/AngularJS/Angular-2.md) |
 
