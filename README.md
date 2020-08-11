@@ -6,9 +6,27 @@ Project Workflow using [ZenHub](https://www.zenhub.com/)
 
 Title | Author | Version | Group | Sub-Levels
 --- | --- | --- | --- | ---
-*Main Knowledge Base Page* | dtro-devuk | 1.0 | Root | **5**
+*Main Knowledge Base Page* | dtro-devuk | 1.1 | Root | **5**
 
 * [Also some useful posts from Tutorialzine](http://tutorialzine.com/posts/page/1/)
+
+## *JS Frameworks*
+
+Categories |
+--- | 
+[React JSX]() |
+[React JS]() |
+[React Native]() |
+[Angular 1++](AngularJS/Angular-1.md) |
+[Angular 2](AngularJS/Angular-2.md) |
+
+## *.NET CORE Development*
+
+Categories |
+--- | 
+[Blazor](NET-CORE/Blazor/Blazor.md) |
+[SignalR](NET-CORE/SignalR/SignalR.md)|
+
 
 ___
 
@@ -57,9 +75,7 @@ ___
 ## [2017](Trending-Tech/Trending-Tech-2017-KB.md)
 ___
 
-.NET CORE Development
 
-## [SignalR](.NET CORE/SignalR/SignalR.md)
 
 ___
 
@@ -84,9 +100,6 @@ ___
 * [Lighthouse,  analyzes web apps and web pages, collecting modern performance metrics and insights on developer best practices.](https://github.com/GoogleChrome/lighthouse)
 * [Lighthouse Report Viewer](http://googlechrome.github.io/lighthouse/viewer/)
 
-## [Angular 1](AngularJS/Angular-1.md)
-
-## [Angular 2](AngularJS/Angular-2.md)
 
 ### Cascading Style Sheets
 
