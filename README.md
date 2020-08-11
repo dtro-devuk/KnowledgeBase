@@ -14,11 +14,11 @@ Title | Author | Version | Group | Sub-Levels
 
 Categories |
 --- | 
-[React JSX](React-JSX/ReactJSx.md) |
-[React JS]() |
-[React Native]() |
-[Angular 1++](AngularJS/Angular-1.md) |
-[Angular 2](AngularJS/Angular-2.md) |
+[React JSX](JavaScript-Frameworks/React-JSX/ReactJSX.md) |
+[React JS](JavaScript-Frameworks/ReactJS/ReactJS.md) |
+[React Native](JavaScript-Frameworks/ReactNative.ReactNative.md) |
+[Angular 1++](JavaScript-Frameworks/AngularJS/Angular-1.md) |
+[Angular 2](JavaScript-Frameworks/AngularJS/Angular-2.md) |
 
 ## *.NET CORE Development*
 
