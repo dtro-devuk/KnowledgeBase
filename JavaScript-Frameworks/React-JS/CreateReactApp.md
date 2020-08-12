@@ -8,6 +8,7 @@ As you gain more experience and need more control, it offers a "reject" script, 
 
 ### Create React App (CRA)
 * [Documentation](https://create-react-app.dev/docs/documentation-intro)
+* [Getting Started](https://create-react-app.dev/docs/getting-started)
 
 The single build script which is built-in, means you don’t need to install or configure tools like webpack or Babel. They are preconfigured and hidden so that you can focus on the code.
 If you need more advanced mechanisms, them use the Eject script.
@@ -22,6 +23,14 @@ npm start
 Then open http://localhost:3000/ to see your app.
 
 When you’re ready to deploy to production, create a minified bundle with npm run build.
+
+To ensure your using npm rather than yarn please use, 
+
+```
+npx create-react-app my-app --use-npm
+```
+
+to ensure the correct dependencies are installed.
 
 ## React and Templates flag
 
