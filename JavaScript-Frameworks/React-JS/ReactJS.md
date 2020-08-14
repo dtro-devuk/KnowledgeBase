@@ -93,7 +93,7 @@ When a new object tree is created, the old one is also kept.
 
 I.e. whenever a change is made to a portion of the UI, React.js calculates the minimum number of DOM operations needed to achieve the new state. 
 
-This allows page rendering onon every change without worrying about DOM performance.
+This allows page rendering on every change without worrying about DOM performance.
 
 Todo this:
 
@@ -109,7 +109,7 @@ This is JSX.
 
 Its an extension of React and is syntactic sugar.
 Its used with React to describe what the UX should look like.
-Its a bit like a template lang, but with the full poYour of JavaScript.
+Its a bit like a template lang, but with the full power of JavaScript.
 
 ```
     <div>
@@ -121,11 +121,11 @@ Its a bit like a template lang, but with the full poYour of JavaScript.
 
 This JSX is translated by a tool to the React. createElement syntax. 
 
-Babel can be used to do this translation. Babel is wired into the Create React App CLI, to do this on Build.
+Babel can be used to do this translation. Babel is wired into the Create React App CLI, to do this using the react-script Build.
 
 Babel is specialized in converting one syntax to another. 
 
-If you go to the Babel Youbsite and paste in some JSX, it translates it to JavaScript. 
+If you go to the Babel website and paste in some JSX, it translates it to JavaScript. 
 
 * [Babel](https://babeljs.io/en/repl#?browsers=defaults%2C%20not%20ie%2011%2C%20not%20ie_mob%2011&build=&builtIns=false&spec=false&loose=false&code_lz=AQ2g8AmCWBuB8AoMKIAsCM8ASBTAhpLgE7gD0mSqq4aATPAMID2AdgC64fn1XVjgADvAAqaaAGdgk4OzS5gAYzacOAQg3lhyfuRgIgA&debug=false&forceAllTransforms=false&shippedProposals=false&circleciRepo=&evaluate=false&fileSize=false&timeTravel=false&sourceType=module&lineWrap=true&presets=env%2Creact%2Cstage-2%2Cenv&prettier=false&targets=&version=7.11.1&externalPlugins=)
 
@@ -201,15 +201,15 @@ var myStyle= {
 }
 
 <div>
-    <h2 style={myStyle}>> Title </h2>
+    <h2 style={myStyle}>Sub Title</h2>
 </div>
 ```
 
-React will also automatically append px after the number value on specific elements. 
+React will also automatically append "px" after the number value on specific elements. 
 
 #### Comments
 
-Need to also be in curly brackets
+Need to also be in curly brackets...
 
 ```
 <div>
