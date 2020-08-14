@@ -25,6 +25,9 @@ you are using the online references to the library.
 
 
 
+
+
+
 *[]()
 
 ## Samples
@@ -33,6 +36,7 @@ you are using the online references to the library.
 ## Resources
 * [Introducing JSX](https://reactjs.org/docs/introducing-jsx.html)
 * [JSX In Depth](https://reactjs.org/docs/jsx-in-depth.html)
+* [What is JSX](https://www.reactenlightenment.com/react-jsx/5.1.html)
 
 
 ## Courses

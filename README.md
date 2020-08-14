@@ -10,17 +10,32 @@ Title | Author | Version | Group | Sub-Levels
 
 * [Also some useful posts from Tutorialzine](http://tutorialzine.com/posts/page/1/)
 
-## *JS Frameworks*
+## JS Frameworks
 
 Categories |
 --- | 
-[React JS 0 Create React App](JavaScript-Frameworks/React-JS/CreateReactApp.md)
-[React JSX](JavaScript-Frameworks/React-JSX/ReactJSX.md) |
+[React JS - Create React App CLI](JavaScript-Frameworks/React-JS/CreateReactApp.md) |
 [React JS](JavaScript-Frameworks/React-JS/ReactJS.md) |
+[React JSX](JavaScript-Frameworks/React-JSX/ReactJSX.md) |
 [React JS & Typescript](JavaScript-Frameworks/React-JS/ReactTypescript.md) |
+[Mocking React with MirageJS](JavaScript-Frameworks/ReactJS-Testing/React-Mirage-Mock-API.md) |
 [React Native](JavaScript-Frameworks/React-Native/ReactNative.md) |
 [Angular 1++](JavaScript-Frameworks/AngularJS/Angular-1.md) |
 [Angular 2](JavaScript-Frameworks/AngularJS/Angular-2.md) |
+
+
+### Comparisons
+
+React | Angular | Vue |
+--- | ---| ---|
+Components | Components | Components |
+Library | Framework | Library |
+Facebook | Google | Community |
+MIT | MIT | MIT |
+1 way data-binding | 2 way data-binding | 1 way data-binding |
+UI in JavaScript | UI in HTML | UI in HTML |
+
+(source: A Practical start with React, Roland Guijt)
 
 ## *.NET CORE Development*
 
