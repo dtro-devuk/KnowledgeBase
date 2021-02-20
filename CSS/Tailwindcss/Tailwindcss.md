@@ -14,21 +14,6 @@ Fedup of cumbersome, complex, wieldy, opnionated CSS frameworks, I recently swap
 
 Allowing you to create awseome CSS, quickly with awesome looking end results.
 
-## React Features
-
-|                                 |
-| ------------------------------- | ------------------------------------------------------------------------------------------- |
-| **Atomic CSS**                  | Nextjs server detects file modification and does auto reload.                               |
-| **Automatic Routing**           | Url's are mapped to the file folder system: (`pages`) folder. Optional use React Router.    |
-| **SinglFile Components**        | styled-jsx builit-in and provides support for global as well as component specific styles.  |
-| **Automatic Code splting**      | efficient rendering of only `used` libs, code, css, etc, split at the component/page level. |
-| **Prefetch**                    | the nextjs `Link` component has a `prefetch` property built in to prefetch page resources.  |
-| **Server side Renring**         | react components are pre-rendered on server hence faster loading on clients.                |
-| **Static Site exports**         | Full static site export to an `out` folder.                                                 |
-| **Dynamic components**          | Next.js allows the import of JavaScript modules and React Components dynamically.           |
-| **Node Ecosystem**              |
-| **Built-in TypeScript support** | Excellent built-in TypeScript support.                                                      |
-
 ## Usage
 
 ```npm

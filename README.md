@@ -21,7 +21,7 @@ Project Workflow using [ZenHub](https://www.zenhub.com/)
 
 | Framework | Categories                                                                                    |
 | --------- | --------------------------------------------------------------------------------------------- |
-| Next js   | [Nextjs](JavaScript-Frameworks/Nextjs/Nexts.md)                                               |
+| Next js   | [Nextjs](JavaScript-Frameworks/Nextjs/Nextjs.md)                                              |
 | React     | [React JS - Create React App CLI](JavaScript-Frameworks/React-JS/CreateReactApp.md)           |
 |           | [React Resources](https://reactresources.com/)                                                |
 |           | [React JS](JavaScript-Frameworks/React-JS/ReactJS.md)                                         |
