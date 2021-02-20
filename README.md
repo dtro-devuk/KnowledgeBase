@@ -26,7 +26,7 @@ Project Workflow using [ZenHub](https://www.zenhub.com/)
 |           | [React Resources](https://reactresources.com/)                                                |
 |           | [React JS](JavaScript-Frameworks/React-JS/ReactJS.md)                                         |
 |           | [React JSX](JavaScript-Frameworks/React-JSX/ReactJSX.md)                                      |
-|           | [RReacteact JS & Typescript](JavaScript-Frameworks/React-JS/ReactTypescript.md)               |
+|           | [React JS & Typescript](JavaScript-Frameworks/React-JS/ReactTypescript.md)                    |
 |           | [Mocking React with MirageJS](JavaScript-Frameworks/ReactJS-Testing/React-Mirage-Mock-API.md) |
 |           | [React Native](JavaScript-Frameworks/React-Native/ReactNative.md)                             |
 | Angular   | [Angular 1++](JavaScript-Frameworks/AngularJS/Angular-1.md)                                   |
