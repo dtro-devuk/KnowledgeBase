@@ -8,8 +8,6 @@ Project Workflow using [ZenHub](https://www.zenhub.com/)
 | -------------------------- | ---------- | ------- | ----- | ---------- |
 | _Main Knowledge Base Page_ | dtro-devuk | 1.1     | Root  | **5**      |
 
-- [Also some useful posts from Tutorialzine](http://tutorialzine.com/posts/page/1/)
-
 ## CSS Frameworks
 
 | Framework   | Categories                                          |
