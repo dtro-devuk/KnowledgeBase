@@ -12,7 +12,5 @@
     "url": "git+https://github.com/dtro-devuk/knowledgebase"
   },
   "license": "MIT",
-  "scripts": {
-    "deploy-gp": "git commit -m \"Deploy gh-pages\" && git subtree push --prefix out origin gh-pages"
-  }
+  "scripts": {}
 }
