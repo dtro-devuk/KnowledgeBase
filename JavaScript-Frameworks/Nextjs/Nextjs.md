@@ -23,7 +23,7 @@ This combined with great SEO features, make it a perfect choice for SPA's, apps,
 
 ## React Features
 
-|                                 |
+| Features                        | Description                                                                                 |
 | ------------------------------- | ------------------------------------------------------------------------------------------- |
 | **Hot Code Reloading**          | Nextjs server detects file modification and does auto reload.                               |
 | **Automatic Routing**           | Url's are mapped to the file folder system: (`pages`) folder. Optional use React Router.    |
@@ -33,7 +33,7 @@ This combined with great SEO features, make it a perfect choice for SPA's, apps,
 | **Server side Renring**         | react components are pre-rendered on server hence faster loading on clients.                |
 | **Static Site exports**         | Full static site export to an `out` folder.                                                 |
 | **Dynamic components**          | Next.js allows the import of JavaScript modules and React Components dynamically.           |
-| **Node Ecosystem**              |                                                                                             |
+| **Node Ecosystem**              | Runs on Node and is comptible with most JavaScript frameworks.                              |
 | **Built-in TypeScript support** | Excellent built-in TypeScript support.                                                      |
 
 ## Usage
