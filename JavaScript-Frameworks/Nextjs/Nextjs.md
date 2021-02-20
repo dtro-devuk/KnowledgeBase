@@ -21,7 +21,7 @@ SSG and SSR, whereby the app is either 'built' as an SSG (no JS) at build time, 
 This makes it very fast on the server, with an overall better user experience.
 This combined with great SEO features, make it a perfect choice for SPA's, apps, Blogs etc.
 
-## React Features
+## Nextjs Features
 
 | Features                        | Description                                                                                 |
 | ------------------------------- | ------------------------------------------------------------------------------------------- |
