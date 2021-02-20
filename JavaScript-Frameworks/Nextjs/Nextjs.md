@@ -9,7 +9,7 @@
 > The React framework for Production (MIT License)
 
 - Opensource
-- Realeased Oct 2016
+- Released Oct 2016
 
 Nextjs (by Vercel) is a React based framework, that renders react applications on the server.
 Its blazing fast and SEO friendly, due to offering Statitic Site Generation (SSG) as well as Server Side Rendering (SSR).
@@ -33,7 +33,7 @@ This combined with great SEO features, make it a perfect choice for SPA's, apps,
 | **Server side Renring**         | react components are pre-rendered on server hence faster loading on clients.                |
 | **Static Site exports**         | Full static site export to an `out` folder.                                                 |
 | **Dynamic components**          | Next.js allows the import of JavaScript modules and React Components dynamically.           |
-| **Node Ecosystem**              |
+| **Node Ecosystem**              |                                                                                             |
 | **Built-in TypeScript support** | Excellent built-in TypeScript support.                                                      |
 
 ## Usage
