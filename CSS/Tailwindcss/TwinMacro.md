@@ -1,4 +1,4 @@
-# Twin.Macro Knowledgbase from, Feb 2021
+# Twin.Macro Knowledgebase from, Feb 2021
 
 | Title                               | Author     | Version | Group | Sub-Levels |
 | ----------------------------------- | ---------- | ------- | ----- | ---------- |

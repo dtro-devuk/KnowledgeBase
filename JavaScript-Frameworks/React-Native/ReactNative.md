@@ -1,27 +1,29 @@
-### React Native Knowledgbase April 2020
+### React Native Knowledgebase April 2020
 
-Title | Author | Version | Group | Sub-Levels
---- | --- | --- | --- | ---
-*React JSX Knowledgebase Page* | dtro-devuk | 1.0 | | **0**
-
+| Title                          | Author     | Version | Group | Sub-Levels |
+| ------------------------------ | ---------- | ------- | ----- | ---------- |
+| _React JSX Knowledgebase Page_ | dtro-devuk | 1.0     |       | **0**      |
 
 ## Intro
 
-* [React Native](https://reactnative.dev/)
+- [React Native](https://reactnative.dev/)
 
-*An opensource mobile framework for creative native Android and iOS Apps using React.*
+_An opensource mobile framework for creative native Android and iOS Apps using React._
 
 Write in Javascript render in Native code.
 
 ## Native Essentials
 
-*[]()
+\*[]()
 
 ## Samples
-* []()
+
+- []()
 
 ## Resources
-* []()
+
+- []()
 
 ## Courses
-* []()
+
+- []()

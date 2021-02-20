@@ -1,4 +1,4 @@
-# Next JS Knowledgbase from, Feb 2021
+# Next JS Knowledgebase from, Feb 2021
 
 | Title                       | Author     | Version | Group | Sub-Levels |
 | --------------------------- | ---------- | ------- | ----- | ---------- |

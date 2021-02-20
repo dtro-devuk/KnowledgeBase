@@ -1,4 +1,4 @@
-# Tailwind CSS Knowledgbase from, Feb 2021
+# Tailwind CSS Knowledgebase from, Feb 2021
 
 | Title                             | Author     | Version | Group | Sub-Levels |
 | --------------------------------- | ---------- | ------- | ----- | ---------- |
