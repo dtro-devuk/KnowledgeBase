@@ -1,0 +1,18 @@
+{
+  "homepage": "https://dtro-devuk.github.io/KnowledgeBase/",
+  "name": "nowledgebase",
+  "description": "A curated list of helpful material on some of my Development Stack.",
+  "version": "0.1.0",
+  "private": false,
+  "author": {
+    "name": "dtro-devuk"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dtro-devuk/knowledgebase"
+  },
+  "license": "MIT",
+  "scripts": {
+    "deploy-gp": "git commit -m \"Deploy gh-pages\" && git subtree push --prefix out origin gh-pages"
+  }
+}
