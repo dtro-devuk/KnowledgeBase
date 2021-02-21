@@ -8,11 +8,13 @@
 
 > Rapidly build modern websites without ever leaving your HTML
 
-A atomic utility-first CSS framework. Its just awesome :smile:
+An atomic utility-first CSS framework. Its just awesome :smile:
 
-Fedup of cumbersome, complex, wieldy, opnionated CSS frameworks, I recently swapped to Tailwind CSS and never look back.
+Fed-up of cumbersome, complex, wieldy, opnionated CSS frameworks, I recently swapped to Tailwind CSS and never looked back.
 
 Allowing you to create awseome CSS, quickly with awesome looking end results.
+
+With the Tailwind in your sails!
 
 ## Usage
 
