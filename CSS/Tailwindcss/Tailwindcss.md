@@ -32,6 +32,8 @@ npm install tailwindcss
 - [Headless UI](https://github.com/tailwindlabs/headlessui)
 - [Tailwind Gradients plugin](https://github.com/benface/tailwindcss-gradients)
 - [Tailwind Templates](https://tailwindmade.com/)
+- [Creative Tim - Tailwind Starter Kit](https://www.creative-tim.com/learning-lab/tailwind-starter-kit/documentation/download)
+- [Tailwind Templates](https://tailwindtemplates.io/)
 
 ## Awesome Tools for VSCode etc
 
