@@ -1,6 +1,6 @@
 # Knowledge Base
 
-A curated list of helpful material on some of my Development Stack :smile:
+A curated list of helpful material on some of my Development Stack 😎
 
 Project Workflow using [ZenHub](https://www.zenhub.com/)
 
